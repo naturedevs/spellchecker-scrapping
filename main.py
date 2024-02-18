@@ -4,17 +4,20 @@ import os
 import logging
 import pandas as pd
 import sys
+import time
 
 from PyQt6.QtWidgets import (
     QApplication, QLabel, 
     QWidget, QPushButton, 
     QHBoxLayout, QVBoxLayout, QGridLayout,
     QLineEdit, QFormLayout, QFileDialog,
+    QListView,
     QDialog, QDialogButtonBox, QMessageBox,
 )
 from PyQt6.QtGui import (
     QIcon,
 )
+from PyQt6.QtCore import QObject, QThread, pyqtSignal, pyqtSlot
 import pkg_resources
 
 spell = SpellChecker()
@@ -22,6 +25,13 @@ spell = SpellChecker()
 folder_path = './output'
 if not os.path.exists(folder_path):
     os.mkdir(folder_path)
+
+# Specify the file path
+file_path = "./info.log"
+# Check if the file exists before deleting
+if os.path.exists(file_path):
+    # Delete the file
+    os.remove(file_path)
 
 logger = logging.getLogger()
 handler_info = logging.FileHandler('./info.log')
@@ -43,12 +53,13 @@ def rb(word):
         return word
 
 def spell_correction(word):
-    if word == "w/":
-        return ""
-    if word in spell.unknown([word]):
+    if word.isupper() :
+        return word
+    elif word.lower() in spell.unknown([word]):
         w = spell.correction(word)
         if w and w != "i":
-            return w
+            return w.capitalize()
+    # print (word)
     return word
 
 def spell_check_word(word):
@@ -56,6 +67,8 @@ def spell_check_word(word):
         if word.endswith(")"):
             return "(" + spell_correction(word[1:-1]) + ")"
         return "(" + spell_correction(word[1:])
+    elif word == "w/":
+        return ""
     elif word.endswith(")"):
         return spell_correction(word[:-1]) + ")"
     elif word.endswith(","):
@@ -67,18 +80,14 @@ def spell_check_word(word):
     elif len(word) > 2 and word[1] == "-":
         if word[-2] != "-":
             return word[0:2] + spell_correction(word[2:])
+    elif "/" in word:
+        # print(word)
+        # print("/".join([spell_correction(x) for x in word.split("/")]))
+        return "/".join([spell_correction(x) for x in word.split("/")])
     return spell_correction(word)
 
 def spell_check(text):
-    # print(text)
-    # if len(text) == 0:
-        # print("error")
-    # words = [rb(word) for word in text.split()]
     words = text.split()
-    # print(words)
-    
-    # misspelled = spell.unknown(words)
-    # print(misspelled)
 
     corrected_text = []
     for word in words:
@@ -89,12 +98,32 @@ def spell_check(text):
 
     return ' '.join(corrected_text)
 
+class Worker(QObject):
+    update_list = pyqtSignal(str)
+
+    def __init__(self):
+        super().__init__()
+
+    def do_work(self):
+        for i in range(5):
+            time.sleep(1)  # Simulate some work
+            self.update_list.emit(f"Item {i}")
+
+class WorkerThread(QThread):
+    def __init__(self):
+        super().__init__()
+        self.worker = Worker()
+
+    def run(self):
+        self.worker.do_work()
+
 class Window(QDialog):
     def __init__(self):
         super().__init__(parent=None)
         ico_path = pkg_resources.resource_filename(__name__, '2.ico')
         self.setWindowIcon(QIcon(ico_path))
         self.setWindowTitle("Spell Checker")
+        self.setMinimumWidth(500)
         dialogLayout = QVBoxLayout()
         # formLayout
         formLayout = QFormLayout()
@@ -117,7 +146,7 @@ class Window(QDialog):
         label2 = QLabel("Output:")
         label2.setFixedWidth(50)
         lineEdit2 = QLineEdit()
-        lineEdit2.setFixedWidth(300)
+        # lineEdit2.setFixedWidth(300)
         lineEdit2.setText(os.getcwd() + '\\output\\')
         setattr(self, "lineEdit2", lineEdit2)
         button2 = QPushButton("select")
@@ -129,10 +158,6 @@ class Window(QDialog):
 
         # layout3
         layout3 = QHBoxLayout()
-        label = QLabel()
-        label.setText("0%")
-        layout3.addWidget(label)
-        setattr(self, "label", label)
 
         buttons = QDialogButtonBox()
         buttons.setStandardButtons(
@@ -144,12 +169,17 @@ class Window(QDialog):
         buttons.rejected.connect(self.reject)
         layout3.addWidget(buttons)
 
-        setattr(self, "buttons", buttons)
+        # layout3
+        layout4 = QHBoxLayout()
+        
+        self.list_view = QListView()
+        layout4.addWidget(self.list_view)
 
         # add layouts
         formLayout.addRow(layout1)
         formLayout.addRow(layout2)
         formLayout.addRow(layout3)
+        formLayout.addRow(layout4)
 
         dialogLayout.addLayout(formLayout)
 
@@ -158,7 +188,23 @@ class Window(QDialog):
         msgDone = QMessageBox()
         msgDone.setWindowTitle("Result")
         setattr(self, "messageDone", msgDone)
+
+        self.worker_thread = WorkerThread()
+        self.worker_thread.worker.update_list.connect(self.update_list_view)
+
+    @pyqtSlot(str)
+    def update_list_view(self, item):
+        model = self.list_view.model()
+        model.insertRow(0)
+        index = model.index(0, 0)
+        model.setData(index, item)
+
+    def start_thread(self):
+        self.worker_thread.start()
+
     def accept(self):
+        self.start_thread()
+        return
         fileName = self.lineEdit1.text()
         if fileName.endswith('.csv'):
             print(fileName)  
@@ -169,23 +215,23 @@ class Window(QDialog):
             # print(file)
             try : 
                 df = pd.read_csv(fileName)
-                print(df)
+                # print(df)
                 num = 0
                 for i in range(0, len(df)) :
                     val = str(df.loc[i, "value"])
-                    self.label.setText(f"{(i/len(df))*100}%")
-                    if i % 1000 == 0:
-                        print(i)
+                    # if i % 1000 == 0:
+                        # print(i)
                     # print(str(i) + " :  " + val)
                     val1 = spell_check(val)
+                    df.loc[i, "value"] = val1
                     if val.replace(" ", "") == val1.replace(" ", "") :
                         # print(val + " : " + val1)
                         continue
                     else:
-                        # print(f"{str(i)} : {val} : {val1}")
+                        print(f"{str(i)} : {val} : {val1}")
                         num = num + 1
                         logger.error(f"{str(i)} : {val} : {val1}")
-                        
+                df.to_csv(self.lineEdit2.text() + "output.csv", index=False)
                 self.messageDone.setIcon(QMessageBox.Icon.Information)
                 self.messageDone.setText(f"Spell Checking finished : fixed {num} values \n please check info.txt file for more details")
                 self.messageDone.exec()
