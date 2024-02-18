@@ -188,7 +188,7 @@ class Window(QDialog):
         self.setLayout(dialogLayout)
 
         msgDone = QMessageBox()
-        msgDone.setWindowTitle("Result")
+        msgDone.setWindowTitle("Alert")
         setattr(self, "messageDone", msgDone)
     def accept(self):
         fileName = self.lineEdit1.text()
@@ -207,19 +207,11 @@ class Window(QDialog):
                 for i in range(0, len(df)) :
                     val = str(df.loc[i, "value"])
                     self.label.setText(f"{(i/len(df))*100:.2f}%")
-                    if i % 1000 == 0:
-                        print(i)
                     # print(str(i) + " :  " + val)
                     val1 = spell_check(val)
                     
                     if val.replace(" ", "") == val1.replace(" ", "") :
                         # print(val + " : " + val1)
-                        suggestions.append(f"{i+1} : {val}")
-                        QApplication.processEvents()
-                        self.model = SpellCheckModel(suggestions)
-                        self.listView.setModel(self.model)
-                        self.listView.scrollToBottom() 
-
                         continue
                     else:
                         # print(f"{str(i)} : {val} : {val1}")
@@ -233,11 +225,12 @@ class Window(QDialog):
                         self.model = SpellCheckModel(suggestions)
                         self.listView.setModel(self.model)
                         self.listView.scrollToBottom() 
-                    
-                    
+                
+                self.label.setText(f"Correct {num} values")    
+                                
                 df.to_csv(self.lineEdit2.text()+"output.csv", index = False)
                 self.messageDone.setIcon(QMessageBox.Icon.Information)
-                self.messageDone.setText(f"Spell Checking finished : fixed {num} values \n please check info.txt file for more details")
+                self.messageDone.setText(f"Corrected {num} values. \n please check info.txt file for more details.")
                 self.messageDone.exec()
             except Exception as e:
                 logger.error(f"An unexpected error occurred: {e}")
