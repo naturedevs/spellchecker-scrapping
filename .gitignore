@@ -3,3 +3,8 @@
 # *.csv
 *.log
 /__pycache__
+/build
+/dist
+main.spec
+input.csv
+output.csv

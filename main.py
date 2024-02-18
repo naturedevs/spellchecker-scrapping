@@ -4,6 +4,7 @@ import os
 import logging
 import pandas as pd
 import sys
+import re
 from PyQt6.QtCore import QAbstractListModel, Qt
 
 from PyQt6.QtWidgets import (
@@ -30,6 +31,7 @@ class SpellCheckModel(QAbstractListModel):
     def data(self, index, role):
         if role == Qt.ItemDataRole.DisplayRole:
             return self._data[index.row()]
+
 
 
 spell = SpellChecker()
@@ -68,6 +70,7 @@ def spell_correction(word):
     return word
 
 def spell_check_word(word):
+    exclude_chars_pattern = re.compile(r"[-:;()$&@“{}#%*+=•¥£€><~|’!?,]")
     if word.startswith("("):
         if word.endswith(")"):
             return "(" + spell_correction(word[1:-1]) + ")"
@@ -89,6 +92,9 @@ def spell_check_word(word):
         # print(word)
         # print("/".join([spell_correction(x) for x in word.split("/")]))
         return "/".join([spell_correction(x) for x in word.split("/")])
+    
+    elif exclude_chars_pattern.search(word):
+        return ""
     return spell_correction(word)
 
 def spell_check(text):
