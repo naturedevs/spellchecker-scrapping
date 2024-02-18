@@ -2,3 +2,4 @@
 ./output
 *.csv
 *.log
+/__pycache__
