@@ -69,8 +69,8 @@ def spell_correction(word):
     # print (word)
     return word
 
+exclude_chars_pattern = re.compile(r"[-<>;$&@“/\"{}%^+=•~|’!?]")
 def spell_check_word(word):
-    exclude_chars_pattern = re.compile(r"[-:;()$&@“{}#%*+=•¥£€><~|’!?,]")
     if word.startswith("("):
         if word.endswith(")"):
             return "(" + spell_correction(word[1:-1]) + ")"
@@ -92,9 +92,6 @@ def spell_check_word(word):
         # print(word)
         # print("/".join([spell_correction(x) for x in word.split("/")]))
         return "/".join([spell_correction(x) for x in word.split("/")])
-    
-    elif exclude_chars_pattern.search(word):
-        return ""
     return spell_correction(word)
 
 def spell_check(text):
@@ -109,6 +106,10 @@ def spell_check(text):
     # print(misspelled)
 
     corrected_text = []
+    
+    if exclude_chars_pattern.search(text):
+        return ''
+
     for word in words:
         w = spell_check_word(word)
         if len(w) == 0:
