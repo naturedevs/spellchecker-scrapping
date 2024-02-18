@@ -4,10 +4,11 @@ import os
 import logging
 import pandas as pd
 import sys
+from PyQt6.QtCore import QAbstractListModel, Qt
 
 from PyQt6.QtWidgets import (
-    QApplication, QLabel, 
-    QWidget, QPushButton, 
+    QApplication, QLabel,
+    QWidget, QPushButton, QListView,
     QHBoxLayout, QVBoxLayout, QGridLayout,
     QLineEdit, QFormLayout, QFileDialog,
     QDialog, QDialogButtonBox, QMessageBox,
@@ -16,6 +17,20 @@ from PyQt6.QtGui import (
     QIcon,
 )
 import pkg_resources
+
+
+class SpellCheckModel(QAbstractListModel):
+    def __init__(self, data=[], parent=None):
+        super().__init__(parent)
+        self._data = data
+
+    def rowCount(self, parent):
+        return len(self._data)
+
+    def data(self, index, role):
+        if role == Qt.ItemDataRole.DisplayRole:
+            return self._data[index.row()]
+
 
 spell = SpellChecker()
 
@@ -43,12 +58,13 @@ def rb(word):
         return word
 
 def spell_correction(word):
-    if word == "w/":
-        return ""
-    if word in spell.unknown([word]):
+    if word.isupper() :
+        return word
+    elif word.lower() in spell.unknown([word]):
         w = spell.correction(word)
         if w and w != "i":
-            return w
+            return w.capitalize()
+    # print (word)
     return word
 
 def spell_check_word(word):
@@ -56,6 +72,8 @@ def spell_check_word(word):
         if word.endswith(")"):
             return "(" + spell_correction(word[1:-1]) + ")"
         return "(" + spell_correction(word[1:])
+    elif word == "w/":
+        return ""
     elif word.endswith(")"):
         return spell_correction(word[:-1]) + ")"
     elif word.endswith(","):
@@ -67,6 +85,10 @@ def spell_check_word(word):
     elif len(word) > 2 and word[1] == "-":
         if word[-2] != "-":
             return word[0:2] + spell_correction(word[2:])
+    elif "/" in word:
+        # print(word)
+        # print("/".join([spell_correction(x) for x in word.split("/")]))
+        return "/".join([spell_correction(x) for x in word.split("/")])
     return spell_correction(word)
 
 def spell_check(text):
@@ -94,6 +116,8 @@ class Window(QDialog):
         super().__init__(parent=None)
         ico_path = pkg_resources.resource_filename(__name__, '2.ico')
         self.setWindowIcon(QIcon(ico_path))
+        self.setMinimumWidth(600)
+        self.setMinimumHeight(500)
         self.setWindowTitle("Spell Checker")
         dialogLayout = QVBoxLayout()
         # formLayout
@@ -105,7 +129,7 @@ class Window(QDialog):
         label1.setFixedWidth(50)
         lineEdit1 = QLineEdit()
         setattr(self, "lineEdit1", lineEdit1)
-        button1 = QPushButton("open")
+        button1 = QPushButton("Open")
         button1.clicked.connect(self.on_button_click)
         
         layout1.addWidget(label1)
@@ -117,21 +141,28 @@ class Window(QDialog):
         label2 = QLabel("Output:")
         label2.setFixedWidth(50)
         lineEdit2 = QLineEdit()
-        lineEdit2.setFixedWidth(300)
+        # lineEdit2.setFixedWidth(300)
         lineEdit2.setText(os.getcwd() + '\\output\\')
         setattr(self, "lineEdit2", lineEdit2)
-        button2 = QPushButton("select")
+        button2 = QPushButton("Select")
         button2.clicked.connect(self.on_button_click)
         
         layout2.addWidget(label2)
         layout2.addWidget(lineEdit2)
         layout2.addWidget(button2)
-
         # layout3
         layout3 = QHBoxLayout()
+        self.listView = QListView()
+        self.model = SpellCheckModel(["..."])
+        self.listView.setModel(self.model)
+        
+        layout3.addWidget(self.listView)
+
+        # layout4
+        layout4 = QHBoxLayout()
         label = QLabel()
         label.setText("0%")
-        layout3.addWidget(label)
+        layout4.addWidget(label)
         setattr(self, "label", label)
 
         buttons = QDialogButtonBox()
@@ -142,7 +173,7 @@ class Window(QDialog):
         # dialogLayout.addWidget(buttons)
         buttons.accepted.connect(self.accept)
         buttons.rejected.connect(self.reject)
-        layout3.addWidget(buttons)
+        layout4.addWidget(buttons)
 
         setattr(self, "buttons", buttons)
 
@@ -150,6 +181,7 @@ class Window(QDialog):
         formLayout.addRow(layout1)
         formLayout.addRow(layout2)
         formLayout.addRow(layout3)
+        formLayout.addRow(layout4)
 
         dialogLayout.addLayout(formLayout)
 
@@ -171,21 +203,39 @@ class Window(QDialog):
                 df = pd.read_csv(fileName)
                 print(df)
                 num = 0
+                suggestions = []
                 for i in range(0, len(df)) :
                     val = str(df.loc[i, "value"])
-                    self.label.setText(f"{(i/len(df))*100}%")
+                    self.label.setText(f"{(i/len(df))*100:.2f}%")
                     if i % 1000 == 0:
                         print(i)
                     # print(str(i) + " :  " + val)
                     val1 = spell_check(val)
+                    
                     if val.replace(" ", "") == val1.replace(" ", "") :
                         # print(val + " : " + val1)
+                        suggestions.append(f"{i+1} : {val}")
+                        QApplication.processEvents()
+                        self.model = SpellCheckModel(suggestions)
+                        self.listView.setModel(self.model)
+                        self.listView.scrollToBottom() 
+
                         continue
                     else:
                         # print(f"{str(i)} : {val} : {val1}")
                         num = num + 1
                         logger.error(f"{str(i)} : {val} : {val1}")
                         
+                        df.loc[i, 'Suggestion'] = val1
+
+                        suggestions.append(f">> {i+1} : {val} : {val1}")
+                        QApplication.processEvents()
+                        self.model = SpellCheckModel(suggestions)
+                        self.listView.setModel(self.model)
+                        self.listView.scrollToBottom() 
+                    
+                    
+                df.to_csv(self.lineEdit2.text()+"output.csv", index = False)
                 self.messageDone.setIcon(QMessageBox.Icon.Information)
                 self.messageDone.setText(f"Spell Checking finished : fixed {num} values \n please check info.txt file for more details")
                 self.messageDone.exec()
@@ -198,11 +248,11 @@ class Window(QDialog):
             print('you can only select .csv file')
     def on_button_click(self):
         button = self.sender()
-        if button.text() == "open":
+        if button.text() == "Open":
             fileName, _ = QFileDialog.getOpenFileName(self, "Open File", "", "Packages(*.csv)")
             # self.lineEdit1.setText(fileName.replace('/','\\'))               
             self.lineEdit1.setText(fileName)               
-        elif button.text() == "select":
+        elif button.text() == "Select":
             folderName = QFileDialog.getExistingDirectory(self, "Select Directory")
             self.lineEdit2.setText(folderName.replace('/','\\'))
         else :
