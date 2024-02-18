@@ -1,5 +1,5 @@
 ./input
 ./output
-*.csv
+# *.csv
 *.log
 /__pycache__

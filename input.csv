@@ -1,0 +1,1465 @@
+﻿LOVID,LOVName,value
+Eco_LOV_3790,Wrench Type,Inside/Out
+Eco_LOV_3790,Wrench Type,Service
+Eco_LOV_3790,Wrench Type,Clean Outlet
+Eco_LOV_3790,Wrench Type,Strap
+Eco_LOV_3790,Wrench Type,Drain
+Eco_LOV_3790,Wrench Type,Socket
+Eco_LOV_3790,Wrench Type,Chain & Strap
+Eco_LOV_3790,Wrench Type,Chain
+Eco_LOV_3790,Wrench Type,Combination
+Eco_LOV_3790,Wrench Type,Spanner
+Eco_LOV_3790,Wrench Type,Plug
+Eco_LOV_3790,Wrench Type,Basin
+Eco_LOV_3790,Wrench Type,Crowfoot
+Eco_LOV_3790,Wrench Type,Impact
+Eco_LOV_3790,Wrench Type,Adjustable
+Eco_LOV_3790,Wrench Type,Box
+Eco_LOV_3790,Wrench Type,Clamp
+Eco_LOV_3790,Wrench Type,Torque
+Eco_LOV_3790,Wrench Type,Angle Compression Stop
+Eco_LOV_3790,Wrench Type,Valve
+Eco_LOV_3790,Wrench Type,T-handle
+Eco_LOV_3790,Wrench Type,Stem and Cartridge
+Eco_LOV_3790,Wrench Type,Pipe
+Eco_LOV_3790,Wrench Type,Chain and Strap
+Eco_LOV_3790,Wrench Type,Garbage Disposal
+Eco_LOV_3790,Wrench Type,Valve Wheel
+Eco_LOV_3790,Wrench Type,Hydrant
+Eco_LOV_3790,Wrench Type,Standard
+Eco_LOV_3790,Wrench Type,Spud
+Eco_LOV_3790,Wrench Type,Sprinkler
+Eco_LOV_3756,With Horn,Yes
+Eco_LOV_3756,With Horn,No
+Eco_LOV_460,With Damper,No
+Eco_LOV_460,With Damper,Yes
+Eco_LOV_459,With Crimp,Yes
+Eco_LOV_459,With Crimp,No
+Eco_LOV_28,Wireless Communication - FEI,Bixby
+Eco_LOV_28,Wireless Communication - FEI,Zigbee
+Eco_LOV_28,Wireless Communication - FEI,Z-Wave
+Eco_LOV_28,Wireless Communication - FEI,Wi-Fi/Z-Wave
+Eco_LOV_28,Wireless Communication - FEI,GPS/Bluetooth
+Eco_LOV_28,Wireless Communication - FEI,Wi-Fi
+Eco_LOV_28,Wireless Communication - FEI,Bluetooth
+Eco_LOV_28,Wireless Communication - FEI,Bluetooth/Wi-Fi
+Eco_LOV_28,Wireless Communication - FEI,Nexia
+Eco_LOV_28,Wireless Communication - FEI,GPS
+Eco_LOV_28,Wireless Communication - FEI,Radio
+Eco_LOV_218,Window Type - FEI,Double Hung
+Eco_LOV_218,Window Type - FEI,Screens
+Eco_LOV_218,Window Type - FEI,Replacement
+Eco_LOV_218,Window Type - FEI,Basement
+Eco_LOV_312,Window Hardware Type,Window Sash Lock
+Eco_LOV_312,Window Hardware Type,Pivot Bar
+Eco_LOV_312,Window Hardware Type,Cremone Bolt
+Eco_LOV_312,Window Hardware Type,Valance Clip
+Eco_LOV_312,Window Hardware Type,Stem
+Eco_LOV_312,Window Hardware Type,Spiral Non Tilt Balance
+Eco_LOV_312,Window Hardware Type,Anchor
+Eco_LOV_312,Window Hardware Type,Wand Hook
+Eco_LOV_312,Window Hardware Type,Balance
+Eco_LOV_312,Window Hardware Type,Tension Tool
+Eco_LOV_312,Window Hardware Type,Tilter
+Eco_LOV_312,Window Hardware Type,Wand Tilter
+Eco_LOV_312,Window Hardware Type,Screen
+Eco_LOV_312,Window Hardware Type,Loop
+Eco_LOV_312,Window Hardware Type,Spiral Tilt Balance
+Eco_LOV_312,Window Hardware Type,Hook
+Eco_LOV_312,Window Hardware Type,Pivot Lock Shoe
+Eco_LOV_312,Window Hardware Type,Bracket
+Eco_LOV_312,Window Hardware Type,Stopper Option Headrail
+Eco_LOV_312,Window Hardware Type,Flush Pull
+Eco_LOV_312,Window Hardware Type,Wand
+Eco_LOV_312,Window Hardware Type,Bottom Rail Button
+Eco_LOV_312,Window Hardware Type,Screen Spline
+Eco_LOV_312,Window Hardware Type,Bottom Rail
+Eco_LOV_312,Window Hardware Type,Safety Cord Stop
+Eco_LOV_312,Window Hardware Type,Shutter Tieback
+Eco_LOV_312,Window Hardware Type,Plug
+Eco_LOV_312,Window Hardware Type,Support
+Eco_LOV_312,Window Hardware Type,Screen Frame Corner
+Eco_LOV_312,Window Hardware Type,Screw
+Eco_LOV_312,Window Hardware Type,Sash Hook
+Eco_LOV_312,Window Hardware Type,Rolling Tool
+Eco_LOV_312,Window Hardware Type,Latch
+Eco_LOV_312,Window Hardware Type,Comb
+Eco_LOV_312,Window Hardware Type,Lift Tab
+Eco_LOV_312,Window Hardware Type,Casement Stay
+Eco_LOV_312,Window Hardware Type,Window Lock
+Eco_LOV_312,Window Hardware Type,Weather Seal
+Eco_LOV_312,Window Hardware Type,Roller
+Eco_LOV_312,Window Hardware Type,Shutter Dogs
+Eco_LOV_312,Window Hardware Type,Support Bracket
+Eco_LOV_312,Window Hardware Type,Vertical Vanes
+Eco_LOV_312,Window Hardware Type,Turn Buttons
+Eco_LOV_312,Window Hardware Type,Bracket Set
+Eco_LOV_312,Window Hardware Type,Shutter Holdback
+Eco_LOV_312,Window Hardware Type,Channel Balance Accessory Kit
+Eco_LOV_312,Window Hardware Type,Slash Lift
+Eco_LOV_312,Window Hardware Type,Sash Lock
+Eco_LOV_312,Window Hardware Type,Window Channel Balance
+Eco_LOV_312,Window Hardware Type,End Cap
+Eco_LOV_312,Window Hardware Type,Window Sash Balance
+Eco_LOV_312,Window Hardware Type,Tension Spring
+Eco_LOV_312,Window Hardware Type,Screen Clip
+Eco_LOV_312,Window Hardware Type,Window Stay
+Eco_LOV_312,Window Hardware Type,Bail Latch
+Eco_LOV_312,Window Hardware Type,Sash Cam
+Eco_LOV_312,Window Hardware Type,Sash Loop
+Eco_LOV_312,Window Hardware Type,Button Cradle
+Eco_LOV_312,Window Hardware Type,Screen Frame
+Eco_LOV_1072,WIFI Enabled,No
+Eco_LOV_1072,WIFI Enabled,Yes
+Eco_LOV_214,Waterworks Application - FEI,Soil Reinforcement
+Eco_LOV_214,Waterworks Application - FEI,Bedding
+Eco_LOV_214,Waterworks Application - FEI,Fire
+Eco_LOV_214,Waterworks Application - FEI,Pond Liner
+Eco_LOV_214,Waterworks Application - FEI,Tapping Machine
+Eco_LOV_214,Waterworks Application - FEI,Flow Metering
+Eco_LOV_214,Waterworks Application - FEI,Hydrant
+Eco_LOV_214,Waterworks Application - FEI,Sewer Manhole
+Eco_LOV_214,Waterworks Application - FEI,Reuse
+Eco_LOV_214,Waterworks Application - FEI,Cover Lifter
+Eco_LOV_214,Waterworks Application - FEI,Reclaimed Water
+Eco_LOV_214,Waterworks Application - FEI,Tools
+Eco_LOV_214,Waterworks Application - FEI,Municipal
+Eco_LOV_214,Waterworks Application - FEI,Acid Neutralizer
+Eco_LOV_214,Waterworks Application - FEI,Sewage Disposal
+Eco_LOV_214,Waterworks Application - FEI,ICV
+Eco_LOV_214,Waterworks Application - FEI,Pipe & Cable Locators
+Eco_LOV_214,Waterworks Application - FEI,Sludge
+Eco_LOV_214,Waterworks Application - FEI,Service Line Replacement Tools
+Eco_LOV_214,Waterworks Application - FEI,Industrial
+Eco_LOV_214,Waterworks Application - FEI,Locate
+Eco_LOV_214,Waterworks Application - FEI,Irrigation
+Eco_LOV_214,Waterworks Application - FEI,Sewer
+Eco_LOV_214,Waterworks Application - FEI,Probe
+Eco_LOV_214,Waterworks Application - FEI,Storm
+Eco_LOV_214,Waterworks Application - FEI,Cleanout
+Eco_LOV_214,Waterworks Application - FEI,Safety
+Eco_LOV_214,Waterworks Application - FEI,Sanitary Sewer
+Eco_LOV_214,Waterworks Application - FEI,Sewage
+Eco_LOV_214,Waterworks Application - FEI,Waterline Dechlorination
+Eco_LOV_214,Waterworks Application - FEI,Signs
+Eco_LOV_214,Waterworks Application - FEI,Gas
+Eco_LOV_214,Waterworks Application - FEI,"Grease, Lubricants & Oils"
+Eco_LOV_214,Waterworks Application - FEI,Commercial
+Eco_LOV_214,Waterworks Application - FEI,Waterline Chlorination
+Eco_LOV_214,Waterworks Application - FEI,Manhole Adapter
+Eco_LOV_214,Waterworks Application - FEI,Water
+Eco_LOV_214,Waterworks Application - FEI,Electric
+Eco_LOV_214,Waterworks Application - FEI,Paved Roads
+Eco_LOV_214,Waterworks Application - FEI,Curb Box & Valve Keys
+Eco_LOV_214,Waterworks Application - FEI,Water Distribution Services & Feed Lines
+Eco_LOV_214,Waterworks Application - FEI,Polymer Dilution
+Eco_LOV_214,Waterworks Application - FEI,Laboratory
+Eco_LOV_214,Waterworks Application - FEI,Drainage
+Eco_LOV_214,Waterworks Application - FEI,Underground Monitoring
+Eco_LOV_214,Waterworks Application - FEI,Water Treatment Chemicals
+Eco_LOV_214,Waterworks Application - FEI,Monument
+Eco_LOV_214,Waterworks Application - FEI,Pipe Preparation
+Eco_LOV_214,Waterworks Application - FEI,Storm Sewer
+Eco_LOV_214,Waterworks Application - FEI,Potable Water
+Eco_LOV_214,Waterworks Application - FEI,Service Box Keys
+Eco_LOV_225,WaterSense Labeled - FEI,No
+Eco_LOV_225,WaterSense Labeled - FEI,Yes
+Eco_LOV_3755,Water Supply Connector Type,Flexible
+Eco_LOV_3755,Water Supply Connector Type,Ice Maker
+Eco_LOV_3755,Water Supply Connector Type,Water Heater
+Eco_LOV_3755,Water Supply Connector Type,Refrigerator
+Eco_LOV_3755,Water Supply Connector Type,Dishwasher
+Eco_LOV_3755,Water Supply Connector Type,Backend
+Eco_LOV_3755,Water Supply Connector Type,Sink
+Eco_LOV_3755,Water Supply Connector Type,Faucet
+Eco_LOV_3755,Water Supply Connector Type,Toilet
+Eco_LOV_3755,Water Supply Connector Type,Tank
+Eco_LOV_3755,Water Supply Connector Type,Washing Machine
+Eco_LOV_3755,Water Supply Connector Type,Lavatory
+Eco_LOV_213,Water Heater Type - FEI,High Efficiency
+Eco_LOV_213,Water Heater Type - FEI,Light Duty
+Eco_LOV_213,Water Heater Type - FEI,Oil-Fired
+Eco_LOV_213,Water Heater Type - FEI,Hybrid
+Eco_LOV_213,Water Heater Type - FEI,Pool Heater
+Eco_LOV_213,Water Heater Type - FEI,Point of Use
+Eco_LOV_213,Water Heater Type - FEI,Upright
+Eco_LOV_213,Water Heater Type - FEI,Compact
+Eco_LOV_213,Water Heater Type - FEI,Medium
+Eco_LOV_213,Water Heater Type - FEI,Utility
+Eco_LOV_213,Water Heater Type - FEI,Solar
+Eco_LOV_213,Water Heater Type - FEI,Indirect Fired
+Eco_LOV_213,Water Heater Type - FEI,Volume
+Eco_LOV_213,Water Heater Type - FEI,Short
+Eco_LOV_213,Water Heater Type - FEI,Table Top
+Eco_LOV_213,Water Heater Type - FEI,Tankless
+Eco_LOV_213,Water Heater Type - FEI,Medium Duty
+Eco_LOV_213,Water Heater Type - FEI,Commercial
+Eco_LOV_213,Water Heater Type - FEI,Specialty
+Eco_LOV_213,Water Heater Type - FEI,On-demand
+Eco_LOV_213,Water Heater Type - FEI,Heat Pump
+Eco_LOV_213,Water Heater Type - FEI,Wall Hung
+Eco_LOV_213,Water Heater Type - FEI,Tall
+Eco_LOV_213,Water Heater Type - FEI,Junior
+Eco_LOV_213,Water Heater Type - FEI,Hydronic
+Eco_LOV_213,Water Heater Type - FEI,Thermal Efficiency
+Eco_LOV_213,Water Heater Type - FEI,Lowboy
+Eco_LOV_213,Water Heater Type - FEI,Storage Tank
+Eco_LOV_213,Water Heater Type - FEI,Heavy Duty
+Eco_LOV_3472,Water Heater Capacity Range,30 - 40 gal
+Eco_LOV_3472,Water Heater Capacity Range,10 - 29 gal
+Eco_LOV_3472,Water Heater Capacity Range,41 - 50 gal
+Eco_LOV_3472,Water Heater Capacity Range,Greater than 100 gal
+Eco_LOV_3472,Water Heater Capacity Range,51 - 100 gal
+Eco_LOV_3472,Water Heater Capacity Range,Less than 10 gal
+Eco_LOV_3752,Water Hammer Arrestor Included,Yes
+Eco_LOV_3752,Water Hammer Arrestor Included,No
+Eco_LOV_1070,Water Connections,Plumbed
+Eco_LOV_1070,Water Connections,Back
+Eco_LOV_1070,Water Connections,Side
+Eco_LOV_1070,Water Connections,Top
+Eco_LOV_1070,Water Connections,Not Plumbed
+Eco_LOV_1070,Water Connections,Bottom
+Eco_LOV_170,Wall Sconce Type - FEI,Lantern
+Eco_LOV_170,Wall Sconce Type - FEI,Elongated
+Eco_LOV_170,Wall Sconce Type - FEI,Wallchiere
+Eco_LOV_170,Wall Sconce Type - FEI,Single Arm
+Eco_LOV_170,Wall Sconce Type - FEI,Wall Lamp
+Eco_LOV_170,Wall Sconce Type - FEI,Picture Light
+Eco_LOV_170,Wall Sconce Type - FEI,Crystal
+Eco_LOV_170,Wall Sconce Type - FEI,Swing Arm
+Eco_LOV_170,Wall Sconce Type - FEI,Geometric
+Eco_LOV_170,Wall Sconce Type - FEI,Candelabra
+Eco_LOV_170,Wall Sconce Type - FEI,Multi-Drop
+Eco_LOV_170,Wall Sconce Type - FEI,Double Box
+Eco_LOV_170,Wall Sconce Type - FEI,Suspended
+Eco_LOV_170,Wall Sconce Type - FEI,Candle Style
+Eco_LOV_170,Wall Sconce Type - FEI,Wall Washer
+Eco_LOV_170,Wall Sconce Type - FEI,Gooseneck
+Eco_LOV_170,Wall Sconce Type - FEI,Cylinder
+Eco_LOV_170,Wall Sconce Type - FEI,Double Sided
+Eco_LOV_170,Wall Sconce Type - FEI,Outdoor
+Eco_LOV_170,Wall Sconce Type - FEI,Upward Arm
+Eco_LOV_170,Wall Sconce Type - FEI,Bracketed
+Eco_LOV_170,Wall Sconce Type - FEI,Multi Light
+Eco_LOV_170,Wall Sconce Type - FEI,Indoor
+Eco_LOV_170,Wall Sconce Type - FEI,Vanity
+Eco_LOV_170,Wall Sconce Type - FEI,Flush Mount
+Eco_LOV_170,Wall Sconce Type - FEI,Reversible
+Eco_LOV_1069,Wall Installation,Tongue-and-groove
+Eco_LOV_1069,Wall Installation,Glue-Up
+Eco_LOV_1069,Wall Installation,Direct-to-Stud
+VIP,VIP,N
+VIP,VIP,Y
+Eco_LOV_242,Vessel Only - FEI,No
+Eco_LOV_242,Vessel Only - FEI,Yes
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Recirculating
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Vent/Recirculating
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Ductless
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Convertible
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Ducted
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Ducted/Ductless
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Vent
+Eco_LOV_94,"Vent, Ducted or Ductless - FEI",Ducted/Recirculating
+Eco_LOV_1579,Vent Type,Atmospheric Vent
+Eco_LOV_1579,Vent Type,Non-ducted
+Eco_LOV_1579,Vent Type,Chimney Vent/Direct Vent
+Eco_LOV_1579,Vent Type,Natural Draft Vent
+Eco_LOV_1579,Vent Type,Power Direct Vent
+Eco_LOV_1579,Vent Type,Standard
+Eco_LOV_1579,Vent Type,Gas Vent
+Eco_LOV_1579,Vent Type,Power Vent/Power Direct Vent
+Eco_LOV_1579,Vent Type,1-Way Vent
+Eco_LOV_1579,Vent Type,Direct Vent/Non Direct Vent
+Eco_LOV_1579,Vent Type,External
+Eco_LOV_1579,Vent Type,B-Vent/Direct Vent
+Eco_LOV_1579,Vent Type,3-Way Vent
+Eco_LOV_1579,Vent Type,4-Way Vent
+Eco_LOV_1579,Vent Type,Top Direct Vent
+Eco_LOV_1579,Vent Type,Recirculating
+Eco_LOV_1579,Vent Type,Direct Vent
+Eco_LOV_1579,Vent Type,Retractable
+Eco_LOV_1579,Vent Type,Twin Pipe
+Eco_LOV_1579,Vent Type,Ductless
+Eco_LOV_1579,Vent Type,B-Vent/L-Vent
+Eco_LOV_1579,Vent Type,Convertible
+Eco_LOV_1579,Vent Type,B-Vent
+Eco_LOV_1579,Vent Type,Exhaust
+Eco_LOV_1579,Vent Type,Power Vent
+Eco_LOV_1579,Vent Type,Rear Direct Vent
+Eco_LOV_1579,Vent Type,Ducted/Ductless
+Eco_LOV_1579,Vent Type,Built-in
+Eco_LOV_1579,Vent Type,Concentric
+Eco_LOV_1579,Vent Type,Island
+Eco_LOV_1579,Vent Type,2-Way Vent
+Eco_LOV_1579,Vent Type,Updraft
+Eco_LOV_1579,Vent Type,Ducted
+Eco_LOV_1579,Vent Type,Side Vent
+Eco_LOV_1579,Vent Type,Non Direct Vent
+Eco_LOV_1579,Vent Type,Automatic Vent
+Eco_LOV_1579,Vent Type,Direct Vent/Natural Draft Vent
+Eco_LOV_1579,Vent Type,Chimney Vent
+Eco_LOV_1579,Vent Type,Vent Free
+Eco_LOV_458,Vent Installation Type,Undermount
+Eco_LOV_458,Vent Installation Type,Semi-Rigid
+Eco_LOV_458,Vent Installation Type,Flush Mount
+Eco_LOV_458,Vent Installation Type,Flexible
+Eco_LOV_458,Vent Installation Type,Roof
+Eco_LOV_54,Vent Duct Shape - FEI,Spiral
+Eco_LOV_54,Vent Duct Shape - FEI,T-Shape
+Eco_LOV_54,Vent Duct Shape - FEI,Round
+Eco_LOV_54,Vent Duct Shape - FEI,Oval to Round
+Eco_LOV_54,Vent Duct Shape - FEI,Round to Rectangular
+Eco_LOV_54,Vent Duct Shape - FEI,Oval to Rectangular
+Eco_LOV_54,Vent Duct Shape - FEI,Round to Square
+Eco_LOV_54,Vent Duct Shape - FEI,Square to Round
+Eco_LOV_54,Vent Duct Shape - FEI,Rectangular
+Eco_LOV_54,Vent Duct Shape - FEI,Flat
+Eco_LOV_54,Vent Duct Shape - FEI,Square
+Eco_LOV_54,Vent Duct Shape - FEI,Oval
+Eco_LOV_209,Vent Duct Material - FEI,Galvalume<REG/>
+Eco_LOV_209,Vent Duct Material - FEI,Galvanized
+Eco_LOV_209,Vent Duct Material - FEI,Aluminum
+Eco_LOV_209,Vent Duct Material - FEI,Polypropyelene
+Eco_LOV_209,Vent Duct Material - FEI,Steel
+Eco_LOV_209,Vent Duct Material - FEI,Zinc-plated Steel
+Eco_LOV_209,Vent Duct Material - FEI,Polypropylene
+Eco_LOV_209,Vent Duct Material - FEI,Stainless Steel
+Eco_LOV_209,Vent Duct Material - FEI,Galvanized Steel
+Eco_LOV_209,Vent Duct Material - FEI,Plastic
+Eco_LOV_209,Vent Duct Material - FEI,Metal
+Ven Type,Ven Type,TOOL
+Ven Type,Ven Type,PLB-R
+Ven Type,Ven Type,MILL
+Ven Type,Ven Type,IRR
+Ven Type,Ven Type,FEL
+Ven Type,Ven Type,H/C
+Ven Type,Ven Type,SAFET
+Ven Type,Ven Type,BUILD
+Ven Type,Ven Type,WWORK
+Ven Type,Ven Type,MIGR
+Ven Type,Ven Type,INDUS
+Ven Type,Ven Type,WSYS
+Ven Type,Ven Type,ELEC
+Ven Type,Ven Type,PLB-F
+Ven Type,Ven Type,LIGHT
+Ven Type,Ven Type,IP
+Ven Type,Ven Type,PVF
+Ven Type,Ven Type,CHEM
+Eco_LOV_286,Vehicle Rack Type,Cargo Bag
+Eco_LOV_286,Vehicle Rack Type,Van Rack
+Eco_LOV_286,Vehicle Rack Type,Truck Rack
+Eco_LOV_286,Vehicle Rack Type,Cargo Rack
+Eco_LOV_286,Vehicle Rack Type,Cargo Basket
+Eco_LOV_3723,Variable Speed,No
+Eco_LOV_3723,Variable Speed,Yes
+Eco_LOV_1576,Vanity Top Shape,Rectangle
+Eco_LOV_1576,Vanity Top Shape,Round
+Eco_LOV_1576,Vanity Top Shape,Circle
+Eco_LOV_1576,Vanity Top Shape,Triangle
+Eco_LOV_1576,Vanity Top Shape,Other
+Eco_LOV_1576,Vanity Top Shape,Oval
+Eco_LOV_1576,Vanity Top Shape,Square
+Eco_LOV_1066,Vandal Resistant,Yes
+Eco_LOV_1066,Vandal Resistant,No
+Eco_LOV_1574,Valve Type,Butterball Valve
+Eco_LOV_1574,Valve Type,Straight Log Lighter Ball Valve
+Eco_LOV_1574,Valve Type,Foot Valve
+Eco_LOV_1574,Valve Type,Hydronic Pressure Control Valve
+Eco_LOV_1574,Valve Type,Combination Valve
+Eco_LOV_1574,Valve Type,Thermal Expansion Valve
+Eco_LOV_1574,Valve Type,Balancing Ball Valve
+Eco_LOV_1574,Valve Type,Quarter Turn
+Eco_LOV_1574,Valve Type,Anti-Siphon Electric Valve
+Eco_LOV_1574,Valve Type,Test & Drain Valve
+Eco_LOV_1574,Valve Type,Y-Strainer
+Eco_LOV_1574,Valve Type,Anti-Siphon Fill Valve
+Eco_LOV_1574,Valve Type,T-Strainer
+Eco_LOV_1574,Valve Type,Blast Gate Valve
+Eco_LOV_1574,Valve Type,Flap Valve
+Eco_LOV_1574,Valve Type,Pressure Relief Valve
+Eco_LOV_1574,Valve Type,Tricock
+Eco_LOV_1574,Valve Type,Roof Hydrant
+Eco_LOV_1574,Valve Type,Dual Outlet Stop Valve
+Eco_LOV_1574,Valve Type,Log Lighter Valve Key
+Eco_LOV_1574,Valve Type,Dishwasher Supply Stop
+Eco_LOV_1574,Valve Type,Ball Valve
+Eco_LOV_1574,Valve Type,Blow-off Ball Valve
+Eco_LOV_1574,Valve Type,Fill and Drain Ball Valve
+Eco_LOV_1574,Valve Type,Automatic Breach Containment Valve
+Eco_LOV_1574,Valve Type,Solenoid Control Valve
+Eco_LOV_1574,Valve Type,Fill Valve and Flapper Kit
+Eco_LOV_1574,Valve Type,Fill Valve Kit
+Eco_LOV_1574,Valve Type,Metering Valve
+Eco_LOV_1574,Valve Type,Dual Supply Stop Valve
+Eco_LOV_1574,Valve Type,Angle Dual Check Valve
+Eco_LOV_1574,Valve Type,Wafer Check Valve
+Eco_LOV_1574,Valve Type,Automatic Air Venting Valve
+Eco_LOV_1574,Valve Type,Log Lighter Valve Bar Kit
+Eco_LOV_1574,Valve Type,Diverter Breaker Valve
+Eco_LOV_1574,Valve Type,Straight Meter Ball Valve
+Eco_LOV_1574,Valve Type,Reduced Pressure Detector Assembly
+Eco_LOV_1574,Valve Type,Shower Rough-In Valve
+Eco_LOV_1574,Valve Type,Straight Dual Check Valve
+Eco_LOV_1574,Valve Type,Block and Bleed Valve
+Eco_LOV_1574,Valve Type,Containment Valve
+Eco_LOV_1574,Valve Type,Safety Valve
+Eco_LOV_1574,Valve Type,Straight Meter Valve
+Eco_LOV_1574,Valve Type,Straight Ball Meter Valve
+Eco_LOV_1574,Valve Type,Mixing Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Rough-In Valve
+Eco_LOV_1574,Valve Type,Mechanical Joint Valve
+Eco_LOV_1574,Valve Type,Shut Off Valve
+Eco_LOV_1574,Valve Type,Curb Valve
+Eco_LOV_1574,Valve Type,Boiler Drain Valve
+Eco_LOV_1574,Valve Type,Angle Check Valve
+Eco_LOV_1574,Valve Type,Quick Exhaust Valve
+Eco_LOV_1574,Valve Type,Piston Check Valve
+Eco_LOV_1574,Valve Type,Shut Off Cock
+Eco_LOV_1574,Valve Type,Gauge Valve
+Eco_LOV_1574,Valve Type,Angle Double Check Valve
+Eco_LOV_1574,Valve Type,Ball Drip Valve
+Eco_LOV_1574,Valve Type,Flush Valve
+Eco_LOV_1574,Valve Type,Circuit Setter Balance Valve
+Eco_LOV_1574,Valve Type,Flow Speed Control Valve
+Eco_LOV_1574,Valve Type,Water Inlet Valve
+Eco_LOV_1574,Valve Type,Hydronic Fast Fill Valve
+Eco_LOV_1574,Valve Type,Fire Hose Valve
+Eco_LOV_1574,Valve Type,Angle Hose Valve
+Eco_LOV_1574,Valve Type,Flow Measurement Valve
+Eco_LOV_1574,Valve Type,Automatic Air Release Valve
+Eco_LOV_1574,Valve Type,Flow Valve
+Eco_LOV_1574,Valve Type,Purge Valve
+Eco_LOV_1574,Valve Type,Angle Compression Valve
+Eco_LOV_1574,Valve Type,Electronic Expansion Valve
+Eco_LOV_1574,Valve Type,Needle Valve
+Eco_LOV_1574,Valve Type,Hydronic Zone Valve
+Eco_LOV_1574,Valve Type,Transfer Valve
+Eco_LOV_1574,Valve Type,Cycle Stop Valve
+Eco_LOV_1574,Valve Type,Fill Valve
+Eco_LOV_1574,Valve Type,Side Valve
+Eco_LOV_1574,Valve Type,Anti-Siphon Fill Valve Kit
+Eco_LOV_1574,Valve Type,Roman Tub Faucet Valve
+Eco_LOV_1574,Valve Type,Washing Machine Valve
+Eco_LOV_1574,Valve Type,Self Closing Valve
+Eco_LOV_1574,Valve Type,Pressure Control Valves
+Eco_LOV_1574,Valve Type,Pilot Solenoid Valve
+Eco_LOV_1574,Valve Type,Sleeved Plug Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Diverter Valve
+Eco_LOV_1574,Valve Type,High Pressure Valve
+Eco_LOV_1574,Valve Type,Float Valve
+Eco_LOV_1574,Valve Type,Saddle Valve
+Eco_LOV_1574,Valve Type,Air Relief Valve
+Eco_LOV_1574,Valve Type,Anti-Sweat Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Volume Control Valve
+Eco_LOV_1574,Valve Type,Roman Tub Rough-In Valve
+Eco_LOV_1574,Valve Type,Air Bleed Valve
+Eco_LOV_1574,Valve Type,Backwater Valve
+Eco_LOV_1574,Valve Type,Transfer & Diverter Valve
+Eco_LOV_1574,Valve Type,Side Mount Fill Valve
+Eco_LOV_1574,Valve Type,Rough-In Valve
+Eco_LOV_1574,Valve Type,Backflow Preventer
+Eco_LOV_1574,Valve Type,Log Lighter Valve Key and Flange
+Eco_LOV_1574,Valve Type,Tri-Service Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Thermostatic Valve
+Eco_LOV_1574,Valve Type,Frost Proof Yard Hydrant
+Eco_LOV_1574,Valve Type,Bleed Valve
+Eco_LOV_1574,Valve Type,Circuit Balancing Valve
+Eco_LOV_1574,Valve Type,Pump Check Valve
+Eco_LOV_1574,Valve Type,Ice Maker Valve
+Eco_LOV_1574,Valve Type,Combination Air Release Valve
+Eco_LOV_1574,Valve Type,Ball Corp Valve
+Eco_LOV_1574,Valve Type,Straight Log Lighter Valve
+Eco_LOV_1574,Valve Type,Pet Cock
+Eco_LOV_1574,Valve Type,Supply Stop Valve
+Eco_LOV_1574,Valve Type,Stop Valve
+Eco_LOV_1574,Valve Type,Thermostat Control Valve
+Eco_LOV_1574,Valve Type,Shower Valve
+Eco_LOV_1574,Valve Type,Quick Coupling Valve
+Eco_LOV_1574,Valve Type,Automatic Control Valve
+Eco_LOV_1574,Valve Type,Globe Pressure Reducing Valve
+Eco_LOV_1574,Valve Type,Switchover Valve
+Eco_LOV_1574,Valve Type,Air Eliminating Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Mixing Valve
+Eco_LOV_1574,Valve Type,Spring Check Valve
+Eco_LOV_1574,Valve Type,Diverter Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Pressure Balancing Valve
+Eco_LOV_1574,Valve Type,Actuator
+Eco_LOV_1574,Valve Type,Sprinkler Check Valve
+Eco_LOV_1574,Valve Type,Pilot Valve
+Eco_LOV_1574,Valve Type,Curb Stop Valve
+Eco_LOV_1574,Valve Type,Vapor Equalizing Valve
+Eco_LOV_1574,Valve Type,Ball Curb Valve
+Eco_LOV_1574,Valve Type,Stop & Waste Valve
+Eco_LOV_1574,Valve Type,Garden Valve
+Eco_LOV_1574,Valve Type,Fire Hose Angle Valve
+Eco_LOV_1574,Valve Type,Opening Flow Steam Valve
+Eco_LOV_1574,Valve Type,Angle Log Lighter Valve Kit
+Eco_LOV_1574,Valve Type,Test and Drain Ball Valve
+Eco_LOV_1574,Valve Type,BFP Freeze Protection Valve
+Eco_LOV_1574,Valve Type,Inflation Valve
+Eco_LOV_1574,Valve Type,Key Corp
+Eco_LOV_1574,Valve Type,Check Valve
+Eco_LOV_1574,Valve Type,Control Valve
+Eco_LOV_1574,Valve Type,Angle Ball Valve
+Eco_LOV_1574,Valve Type,Reduced Pressure Zone Assembly
+Eco_LOV_1574,Valve Type,Pressure Reducing Control Valve
+Eco_LOV_1574,Valve Type,Diaphragm Valve
+Eco_LOV_1574,Valve Type,Resilient Wedge Gate Valve
+Eco_LOV_1574,Valve Type,Angle Yoke Key Valve
+Eco_LOV_1574,Valve Type,Gas Cock
+Eco_LOV_1574,Valve Type,Auto Drain Valve
+Eco_LOV_1574,Valve Type,Gas Shutoff Valve
+Eco_LOV_1574,Valve Type,Angle Supply Stop Valve
+Eco_LOV_1574,Valve Type,Detector Check Valve
+Eco_LOV_1574,Valve Type,Meter Angle Key Valve
+Eco_LOV_1574,Valve Type,Orifice Valve
+Eco_LOV_1574,Valve Type,Kornerhorn Ball Valve
+Eco_LOV_1574,Valve Type,Swing Check Valve
+Eco_LOV_1574,Valve Type,Straight Ball Service Valve
+Eco_LOV_1574,Valve Type,Digital Control Valve
+Eco_LOV_1574,Valve Type,Disc Valve
+Eco_LOV_1574,Valve Type,Reduced Pressure Backflow Preventer
+Eco_LOV_1574,Valve Type,Air Release & Vacuum Valve
+Eco_LOV_1574,Valve Type,Sillcock Valve
+Eco_LOV_1574,Valve Type,Modular Valve
+Eco_LOV_1574,Valve Type,Gate Valve
+Eco_LOV_1574,Valve Type,Angle Stop Valve
+Eco_LOV_1574,Valve Type,Manual Air Venting Valve
+Eco_LOV_1574,Valve Type,Cartridge Dual Check Valve
+Eco_LOV_1574,Valve Type,Relief Valve
+Eco_LOV_1574,Valve Type,Deluge Valve
+Eco_LOV_1574,Valve Type,Skim Valve
+Eco_LOV_1574,Valve Type,Rite Temp
+Eco_LOV_1574,Valve Type,Blowdown Valve
+Eco_LOV_1574,Valve Type,Ball Check Valve
+Eco_LOV_1574,Valve Type,Zone Valve
+Eco_LOV_1574,Valve Type,Flow Control Valve
+Eco_LOV_1574,Valve Type,Butterfly Valve
+Eco_LOV_1574,Valve Type,Bypass Valve
+Eco_LOV_1574,Valve Type,Corporation Valve
+Eco_LOV_1574,Valve Type,Air Valve
+Eco_LOV_1574,Valve Type,Pressure Reducing Sprinkler Valve
+Eco_LOV_1574,Valve Type,Diverter Rough Valve
+Eco_LOV_1574,Valve Type,Gas Ball Valve
+Eco_LOV_1574,Valve Type,Drain Cock
+Eco_LOV_1574,Valve Type,BFP Vacuum Breaker
+Eco_LOV_1574,Valve Type,Stop Check Valve
+Eco_LOV_1574,Valve Type,Packed Valve
+Eco_LOV_1574,Valve Type,Gas Regulator Valve
+Eco_LOV_1574,Valve Type,Pressure Vacuum Breaker Assembly
+Eco_LOV_1574,Valve Type,Pressure Reducing Gas Regulator
+Eco_LOV_1574,Valve Type,Self-Tapping Needle Valve
+Eco_LOV_1574,Valve Type,Powerball Valve
+Eco_LOV_1574,Valve Type,Key Valve Curb Stop
+Eco_LOV_1574,Valve Type,Quake Valve
+Eco_LOV_1574,Valve Type,Solenoid Valve
+Eco_LOV_1574,Valve Type,Thermostatic Valve
+Eco_LOV_1574,Valve Type,Exposed Valve
+Eco_LOV_1574,Valve Type,Draw Off Valve
+Eco_LOV_1574,Valve Type,Volume Control Valve
+Eco_LOV_1574,Valve Type,Lavatory Faucet Valve
+Eco_LOV_1574,Valve Type,Toggle Valve
+Eco_LOV_1574,Valve Type,Speed Control Valve
+Eco_LOV_1574,Valve Type,Angle Meter Valve
+Eco_LOV_1574,Valve Type,Low Lead Ball Valve
+Eco_LOV_1574,Valve Type,Piercing Valve
+Eco_LOV_1574,Valve Type,Angle Globe Valve
+Eco_LOV_1574,Valve Type,Radiator Valve
+Eco_LOV_1574,Valve Type,Sprinkler Control Valve
+Eco_LOV_1574,Valve Type,Waste Valve
+Eco_LOV_1574,Valve Type,Log Lighter Valve Flange
+Eco_LOV_1574,Valve Type,Lavatory Rough-In Valve
+Eco_LOV_1574,Valve Type,Isolation Valve
+Eco_LOV_1574,Valve Type,Pressure Regulator Valve
+Eco_LOV_1574,Valve Type,Groove Valve
+Eco_LOV_1574,Valve Type,Mechanical Mixing Valve
+Eco_LOV_1574,Valve Type,Yoke Angle Compression Valve
+Eco_LOV_1574,Valve Type,Oil Tank Valve
+Eco_LOV_1574,Valve Type,Straight Supply Stop Valve
+Eco_LOV_1574,Valve Type,Tank Valve
+Eco_LOV_1574,Valve Type,4-Way Valve
+Eco_LOV_1574,Valve Type,Angle Stop Adapter Valve
+Eco_LOV_1574,Valve Type,Pressure Reducing Valve
+Eco_LOV_1574,Valve Type,Angle Valve
+Eco_LOV_1574,Valve Type,Excess Flow Valve
+Eco_LOV_1574,Valve Type,Gas Plug Valve
+Eco_LOV_1574,Valve Type,Bidet Rough Valve
+Eco_LOV_1574,Valve Type,Plug Valve
+Eco_LOV_1574,Valve Type,Silent Check Valve
+Eco_LOV_1574,Valve Type,Hydronic Mixing Valve
+Eco_LOV_1574,Valve Type,Snifter Valve
+Eco_LOV_1574,Valve Type,Hose Bibb
+Eco_LOV_1574,Valve Type,Straight Check Valve
+Eco_LOV_1574,Valve Type,Double Check Valve Assembly
+Eco_LOV_1574,Valve Type,Anti-Siphon Check Valve
+Eco_LOV_1574,Valve Type,Thermostatic Mixing Valve
+Eco_LOV_1574,Valve Type,Gas Valve
+Eco_LOV_1574,Valve Type,Water Heater Valve
+Eco_LOV_1574,Valve Type,Air Cock
+Eco_LOV_1574,Valve Type,Angle Key Valve
+Eco_LOV_1574,Valve Type,Electric Valve
+Eco_LOV_1574,Valve Type,Knife Gate Valve
+Eco_LOV_1574,Valve Type,Inline Air Vent Valve
+Eco_LOV_1574,Valve Type,Sprinkler Valve
+Eco_LOV_1574,Valve Type,Thermostat Mixing Valve
+Eco_LOV_1574,Valve Type,Directional Control Valve
+Eco_LOV_1574,Valve Type,Hydrant Backflow Meter Assembly
+Eco_LOV_1574,Valve Type,Frost Proof Wall Hydrant
+Eco_LOV_1574,Valve Type,Expansion Valve
+Eco_LOV_1574,Valve Type,Reduced Pressure Principle Assembly
+Eco_LOV_1574,Valve Type,Thermal Balancing Valve
+Eco_LOV_1574,Valve Type,Test Cock
+Eco_LOV_1574,Valve Type,Yoke Angle Plug Valve
+Eco_LOV_1574,Valve Type,Duckbill Valve
+Eco_LOV_1574,Valve Type,Post Indicator Valve
+Eco_LOV_1574,Valve Type,Piston Valve
+Eco_LOV_1574,Valve Type,Air Release Valve
+Eco_LOV_1574,Valve Type,Dry Pipe Valve
+Eco_LOV_1574,Valve Type,Double Check Valve
+Eco_LOV_1574,Valve Type,Straight Valve
+Eco_LOV_1574,Valve Type,Double Check Detector Assembly
+Eco_LOV_1574,Valve Type,Waterworks Tapping Valve
+Eco_LOV_1574,Valve Type,Globe Valve
+Eco_LOV_1574,Valve Type,Reversing Valve
+Eco_LOV_1574,Valve Type,Cartridge Angle Dual Check Valve
+Eco_LOV_1574,Valve Type,STR Cartridge Dual Check Valve
+Eco_LOV_1574,Valve Type,Roman Tub Diverter Valve
+Eco_LOV_1574,Valve Type,Yoke Ball Valve
+Eco_LOV_1574,Valve Type,3-Way Valve
+Eco_LOV_1574,Valve Type,Meter Angle Ball Valve
+Eco_LOV_1574,Valve Type,Balancing Valve
+Eco_LOV_1574,Valve Type,Dual Check Valve
+Eco_LOV_1574,Valve Type,Pressure Balancing Valve
+Eco_LOV_1574,Valve Type,Reduced Pressure Zone Detector Assembly
+Eco_LOV_1574,Valve Type,Drain Valve
+Eco_LOV_1574,Valve Type,Oil Valve
+Eco_LOV_1574,Valve Type,Pinch Valve
+Eco_LOV_1574,Valve Type,Straight Log Lighter Valve Kit
+Eco_LOV_1574,Valve Type,Angle Service Key Valve
+Eco_LOV_1574,Valve Type,Slide Gate Valve
+Eco_LOV_1574,Valve Type,Fusible Safety Valve
+Eco_LOV_1574,Valve Type,Lockout and Vent Valve
+Eco_LOV_1574,Valve Type,Pressure Regulating Valve
+Eco_LOV_1574,Valve Type,Hydronic Pressure Regulating Valve
+Eco_LOV_1574,Valve Type,Angle Log Lighter Valve
+Eco_LOV_1574,Valve Type,Service Valve
+Eco_LOV_1574,Valve Type,2-Way Valve
+Eco_LOV_1574,Valve Type,Double Coaxial Valve
+Eco_LOV_1574,Valve Type,Yoke Angle Ball Valve
+Eco_LOV_1574,Valve Type,Log Lighter Valve
+Eco_LOV_1574,Valve Type,Tub & Shower Transfer Valve
+Eco_LOV_1574,Valve Type,Piston Actuated Valve
+Eco_LOV_1147,Valve Trim Type,Volume Control
+Eco_LOV_1147,Valve Trim Type,Pressure Balancing
+Eco_LOV_1147,Valve Trim Type,Thermostatic
+Eco_LOV_1147,Valve Trim Type,Transfer & Diverter
+Eco_LOV_1573,Valve Stem,Soft Seat PCTFE
+Eco_LOV_1573,Valve Stem,Live-loaded
+Eco_LOV_1573,Valve Stem,Bottom-loaded
+Eco_LOV_1573,Valve Stem,Extension
+Eco_LOV_1573,Valve Stem,Rising
+Eco_LOV_1573,Valve Stem,Rising OS&Y
+Eco_LOV_1573,Valve Stem,Pre-Grooved
+Eco_LOV_1573,Valve Stem,Non-Rotating
+Eco_LOV_1573,Valve Stem,Standard
+Eco_LOV_1573,Valve Stem,Regulating Stem
+Eco_LOV_1573,Valve Stem,Vee-point
+Eco_LOV_1573,Valve Stem,Non-rising
+Eco_LOV_1573,Valve Stem,Outside
+Eco_LOV_1573,Valve Stem,Resilient Wedge
+Eco_LOV_1573,Valve Stem,Rupture‐Proof
+Eco_LOV_1573,Valve Stem,20 Point
+Eco_LOV_1573,Valve Stem,Inside
+Eco_LOV_1573,Valve Stem,Guided
+Eco_LOV_1573,Valve Stem,Blowout-proof
+Eco_LOV_1573,Valve Stem,Adjustable Packing
+Eco_LOV_1573,Valve Stem,Double-D
+Eco_LOV_1573,Valve Stem,Leakproof
+Eco_LOV_1573,Valve Stem,Bottom-loaded/Blowout-proof
+Eco_LOV_1572,Valve Seat Material,SBR
+Eco_LOV_1572,Valve Seat Material,RTRFE
+Eco_LOV_1572,Valve Seat Material,Virgin PTFE
+Eco_LOV_1572,Valve Seat Material,Acetal Homopolymer
+Eco_LOV_1572,Valve Seat Material,15% Glass Filled PTFE
+Eco_LOV_1572,Valve Seat Material,PEX
+Eco_LOV_1572,Valve Seat Material,PPS
+Eco_LOV_1572,Valve Seat Material,Nickel
+Eco_LOV_1572,Valve Seat Material,Carbon Graphite
+Eco_LOV_1572,Valve Seat Material,Metal Seated
+Eco_LOV_1572,Valve Seat Material,Multi-Seal
+Eco_LOV_1572,Valve Seat Material,Virgin Teflon<REG/>
+Eco_LOV_1572,Valve Seat Material,Uniseal<REG/>
+Eco_LOV_1572,Valve Seat Material,PTFE Durafill
+Eco_LOV_1572,Valve Seat Material,Stellite<REG/>
+Eco_LOV_1572,Valve Seat Material,Ametal
+Eco_LOV_1572,Valve Seat Material,25% Glass Filled RTFE
+Eco_LOV_1572,Valve Seat Material,Cast Copper Alloy
+Eco_LOV_1572,Valve Seat Material,Polyprel<REG/>
+Eco_LOV_1572,Valve Seat Material,Multi-seal
+Eco_LOV_1572,Valve Seat Material,"RPTFE, 15% Glass Reinforced"
+Eco_LOV_1572,Valve Seat Material,TMHT
+Eco_LOV_1572,Valve Seat Material,High Strength Engineered Resin
+Eco_LOV_1572,Valve Seat Material,Polysulphone
+Eco_LOV_1572,Valve Seat Material,Eudurfill
+Eco_LOV_1572,Valve Seat Material,Bronze
+Eco_LOV_1572,Valve Seat Material,Ni-Cr
+Eco_LOV_1572,Valve Seat Material,Nylon
+Eco_LOV_1572,Valve Seat Material,Monel<REG/>
+Eco_LOV_1572,Valve Seat Material,Monel<REG/> 500
+Eco_LOV_1572,Valve Seat Material,Glass Reinforced RTFE
+Eco_LOV_1572,Valve Seat Material,Neoprene
+Eco_LOV_1572,Valve Seat Material,Conical
+Eco_LOV_1572,Valve Seat Material,Carbon Filled TFE
+Eco_LOV_1572,Valve Seat Material,PPS Coated Ductile Iron
+Eco_LOV_1572,Valve Seat Material,NBR
+Eco_LOV_1572,Valve Seat Material,13% Cr
+Eco_LOV_1572,Valve Seat Material,Alloy
+Eco_LOV_1572,Valve Seat Material,Fluoroelastomer
+Eco_LOV_1572,Valve Seat Material,Chromium Steel
+Eco_LOV_1572,Valve Seat Material,Varies
+Eco_LOV_1572,Valve Seat Material,Engineered Polymer
+Eco_LOV_1572,Valve Seat Material,Modified TFE
+Eco_LOV_1572,Valve Seat Material,G2TFE
+Eco_LOV_1572,Valve Seat Material,FPM
+Eco_LOV_1572,Valve Seat Material,Durlon II
+Eco_LOV_1572,Valve Seat Material,Cast Bronze
+Eco_LOV_1572,Valve Seat Material,TFM 1600
+Eco_LOV_1572,Valve Seat Material,ASTM B62 Brass
+Eco_LOV_1572,Valve Seat Material,PEEK
+Eco_LOV_1572,Valve Seat Material,304
+Eco_LOV_1572,Valve Seat Material,Chrome
+Eco_LOV_1572,Valve Seat Material,Polyurethane
+Eco_LOV_1572,Valve Seat Material,Reinforced TFE
+Eco_LOV_1572,Valve Seat Material,Polyfill
+Eco_LOV_1572,Valve Seat Material,Graphite
+Eco_LOV_1572,Valve Seat Material,MRTFE
+Eco_LOV_1572,Valve Seat Material,Noryl<REG/>
+Eco_LOV_1572,Valve Seat Material,RTFE
+Eco_LOV_1572,Valve Seat Material,Carbon Steel
+Eco_LOV_1572,Valve Seat Material,Hardened Chrome Steel
+Eco_LOV_1572,Valve Seat Material,304L
+Eco_LOV_1572,Valve Seat Material,Iron
+Eco_LOV_1572,Valve Seat Material,Reinforced PTFE
+Eco_LOV_1572,Valve Seat Material,17-4 PH Stainless Steel
+Eco_LOV_1572,Valve Seat Material,Titanium
+Eco_LOV_1572,Valve Seat Material,Durafill <REG/>
+Eco_LOV_1572,Valve Seat Material,Cast Brass
+Eco_LOV_1572,Valve Seat Material,Polyphenylene Ether
+Eco_LOV_1572,Valve Seat Material,Polycarbonate
+Eco_LOV_1572,Valve Seat Material,Inconel 718
+Eco_LOV_1572,Valve Seat Material,RPTFE
+Eco_LOV_1572,Valve Seat Material,Santoprene
+Eco_LOV_1572,Valve Seat Material,Plastic
+Eco_LOV_1572,Valve Seat Material,Chloramine-Resistant Silicone
+Eco_LOV_1572,Valve Seat Material,Integral Hard Face
+Eco_LOV_1572,Valve Seat Material,Steel
+Eco_LOV_1572,Valve Seat Material,Copper Silicon Alloy
+Eco_LOV_1572,Valve Seat Material,Urethane
+Eco_LOV_1572,Valve Seat Material,Epoxy
+Eco_LOV_1572,Valve Seat Material,Phenolic
+Eco_LOV_1572,Valve Seat Material,ASTM B62
+Eco_LOV_1572,Valve Seat Material,CoCr Alloy
+Eco_LOV_1572,Valve Seat Material,Nitrile Rubber
+Eco_LOV_1572,Valve Seat Material,UMPHWE
+Eco_LOV_1572,Valve Seat Material,Lubricated Nylon
+Eco_LOV_1572,Valve Seat Material,Glass Filled PTFE
+Eco_LOV_1572,Valve Seat Material,TFEG
+Eco_LOV_1572,Valve Seat Material,Stainless steel
+Eco_LOV_1572,Valve Seat Material,Tetrafluoroethylene
+Eco_LOV_1572,Valve Seat Material,Teflon<REG/>
+Eco_LOV_1572,Valve Seat Material,Welded
+Eco_LOV_1572,Valve Seat Material,Erosion
+Eco_LOV_1572,Valve Seat Material,Xtreme PTFE
+Eco_LOV_1572,Valve Seat Material,Polysulfone
+Eco_LOV_1572,Valve Seat Material,PFA
+Eco_LOV_1572,Valve Seat Material,Carbon/Glass Reinforced PTFE Durafill<REG/>
+Eco_LOV_1572,Valve Seat Material,Alloy 20
+Eco_LOV_1572,Valve Seat Material,PRFE glass-reinforced
+Eco_LOV_1572,Valve Seat Material,TPV
+Eco_LOV_1572,Valve Seat Material,RTFM
+Eco_LOV_1572,Valve Seat Material,CR
+Eco_LOV_1572,Valve Seat Material,Silicone
+Eco_LOV_1572,Valve Seat Material,Galvanized Steel
+Eco_LOV_1572,Valve Seat Material,PTFE Teflon<TRADEM/>
+Eco_LOV_1572,Valve Seat Material,Hostaflon<REG/> TFM 1
+Eco_LOV_1572,Valve Seat Material,Hostaflon<REG/> TFM
+Eco_LOV_1572,Valve Seat Material,Barrier Filled PTFE
+Eco_LOV_1572,Valve Seat Material,Hyperseat<TRADEM/>
+Eco_LOV_1572,Valve Seat Material,Xtreme
+Eco_LOV_1572,Valve Seat Material,Stellite
+Eco_LOV_1572,Valve Seat Material,Nitrile
+Eco_LOV_1572,Valve Seat Material,Viton<REG/>
+Eco_LOV_1572,Valve Seat Material,Impregnated Teflon<REG/>
+Eco_LOV_1572,Valve Seat Material,Solid Wedge
+Eco_LOV_1572,Valve Seat Material,NiCu
+Eco_LOV_1572,Valve Seat Material,Hypalon
+Eco_LOV_1572,Valve Seat Material,EDPM
+Eco_LOV_1572,Valve Seat Material,Aluminum
+Eco_LOV_1572,Valve Seat Material,PVDF
+Eco_LOV_1572,Valve Seat Material,Replaceable Engineered Polymer
+Eco_LOV_1572,Valve Seat Material,13% Cr Renewable
+Eco_LOV_1572,Valve Seat Material,410 Stainless Steel
+Eco_LOV_1572,Valve Seat Material,Lubetal<TRADEM/>
+Eco_LOV_1572,Valve Seat Material,PVC
+Eco_LOV_1572,Valve Seat Material,Non-Metallic
+Eco_LOV_1572,Valve Seat Material,TPR
+Eco_LOV_1572,Valve Seat Material,Silicon Brass
+Eco_LOV_1572,Valve Seat Material,Hardened Steel
+Eco_LOV_1572,Valve Seat Material,Metal
+Eco_LOV_1572,Valve Seat Material,Polyethylene
+Eco_LOV_1572,Valve Seat Material,Cr-13
+Eco_LOV_1572,Valve Seat Material,Fluorocarbon
+Eco_LOV_1572,Valve Seat Material,T Nitrile
+Eco_LOV_1572,Valve Seat Material,Polyimide
+Eco_LOV_1572,Valve Seat Material,Engineered Plastic
+Eco_LOV_1572,Valve Seat Material,Delrin<REG/>
+Eco_LOV_1572,Valve Seat Material,Cast Copper
+Eco_LOV_1572,Valve Seat Material,316 HF
+Eco_LOV_1572,Valve Seat Material,Thermoplastic
+Eco_LOV_1572,Valve Seat Material,Inconel
+Eco_LOV_1572,Valve Seat Material,PPO
+Eco_LOV_1572,Valve Seat Material,Kalrez<REG/>
+Eco_LOV_1572,Valve Seat Material,Multi-Fill PTFE
+Eco_LOV_1572,Valve Seat Material,MTFE
+Eco_LOV_1572,Valve Seat Material,303 Stainless Steel
+Eco_LOV_1572,Valve Seat Material,Stainless Steel
+Eco_LOV_1572,Valve Seat Material,Teflon
+Eco_LOV_1572,Valve Seat Material,TFE
+Eco_LOV_1572,Valve Seat Material,Aluminum Bronze
+Eco_LOV_1572,Valve Seat Material,Steam Service PTFE
+Eco_LOV_1572,Valve Seat Material,Nitrile Butadiene Rubber
+Eco_LOV_1572,Valve Seat Material,PTTE
+Eco_LOV_1572,Valve Seat Material,T3 Nitrile
+Eco_LOV_1572,Valve Seat Material,TFM 1700
+Eco_LOV_1572,Valve Seat Material,316
+Eco_LOV_1572,Valve Seat Material,Monel<REG/> 400
+Eco_LOV_1572,Valve Seat Material,15% Glass RTFE
+Eco_LOV_1572,Valve Seat Material,Chloramine-Resistant EPDM
+Eco_LOV_1572,Valve Seat Material,13% Cr HF
+Eco_LOV_1572,Valve Seat Material,Inconel<REG/>
+Eco_LOV_1572,Valve Seat Material,HDPE
+Eco_LOV_1572,Valve Seat Material,TFM
+Eco_LOV_1572,Valve Seat Material,RFFE
+Eco_LOV_1572,Valve Seat Material,Electroless Nickel Plated
+Eco_LOV_1572,Valve Seat Material,Carbon Filled PTFE
+Eco_LOV_1572,Valve Seat Material,Silicone Rubber
+Eco_LOV_1572,Valve Seat Material,Graphite Reinforced PTFE
+Eco_LOV_1572,Valve Seat Material,Acetal
+Eco_LOV_1572,Valve Seat Material,TFM-PTFE<REG/>
+Eco_LOV_1572,Valve Seat Material,Ductile Iron
+Eco_LOV_1572,Valve Seat Material,316 Stainless Steel
+Eco_LOV_1572,Valve Seat Material,Polymer
+Eco_LOV_1572,Valve Seat Material,PTFE
+Eco_LOV_1572,Valve Seat Material,PRFE Glass-Reinforced
+Eco_LOV_1572,Valve Seat Material,Devlon<REG/>
+Eco_LOV_1572,Valve Seat Material,Monel
+Eco_LOV_1572,Valve Seat Material,Copper Alloy
+Eco_LOV_1572,Valve Seat Material,Brass
+Eco_LOV_1572,Valve Seat Material,Copper
+Eco_LOV_1572,Valve Seat Material,Aflas
+Eco_LOV_1572,Valve Seat Material,EPDM Rubber
+Eco_LOV_1572,Valve Seat Material,NXT
+Eco_LOV_1572,Valve Seat Material,Tek-Fil<REG/>
+Eco_LOV_1572,Valve Seat Material,Stainless Steel Alloy
+Eco_LOV_1572,Valve Seat Material,Alloy Steel
+Eco_LOV_1572,Valve Seat Material,Hypatite<REG/> PTFE
+Eco_LOV_1572,Valve Seat Material,Resilient Wedge
+Eco_LOV_1572,Valve Seat Material,Reinforced RPTFE
+Eco_LOV_1572,Valve Seat Material,CTFE
+Eco_LOV_1572,Valve Seat Material,Wire Reinforced
+Eco_LOV_1572,Valve Seat Material,Dupont Teflon
+Eco_LOV_1572,Valve Seat Material,A105
+Eco_LOV_1572,Valve Seat Material,Celcon<REG/>
+Eco_LOV_1572,Valve Seat Material,Noryl
+Eco_LOV_1572,Valve Seat Material,Hostaflon TFM
+Eco_LOV_1572,Valve Seat Material,Stellite 6
+Eco_LOV_1572,Valve Seat Material,Cu-Ni
+Eco_LOV_1572,Valve Seat Material,Viton
+Eco_LOV_1572,Valve Seat Material,PRFE
+Eco_LOV_1572,Valve Seat Material,Corrosion Resistant
+Eco_LOV_1572,Valve Seat Material,Nickel Alloy
+Eco_LOV_1572,Valve Seat Material,Hypalon<REG/>
+Eco_LOV_1572,Valve Seat Material,Hostaflon<REG/> TFM 1600
+Eco_LOV_1572,Valve Seat Material,UHMWP
+Eco_LOV_1572,Valve Seat Material,Devlon
+Eco_LOV_1572,Valve Seat Material,MPTFE
+Eco_LOV_1572,Valve Seat Material,Teflon<TRADEM/>
+Eco_LOV_1572,Valve Seat Material,RPTFE 15% Glass Filled
+Eco_LOV_1572,Valve Seat Material,Elastomer
+Eco_LOV_1572,Valve Seat Material,Nickel Plated
+Eco_LOV_1572,Valve Seat Material,Welded Nickel
+Eco_LOV_1572,Valve Seat Material,Buna-N
+Eco_LOV_1572,Valve Seat Material,304 Stainless Steel
+Eco_LOV_1572,Valve Seat Material,EPDM Elastomer
+Eco_LOV_1572,Valve Seat Material,PCTFE
+Eco_LOV_1572,Valve Seat Material,Buna
+Eco_LOV_1572,Valve Seat Material,EPMD
+Eco_LOV_1572,Valve Seat Material,Teflon<TRADEM/> RPTFE
+Eco_LOV_1572,Valve Seat Material,EPR
+Eco_LOV_1572,Valve Seat Material,Chloramine-resistant Silicone
+Eco_LOV_1572,Valve Seat Material,Fluorocarbon Rubber
+Eco_LOV_1572,Valve Seat Material,15% Glass Filled RPTFE
+Eco_LOV_1572,Valve Seat Material,Teflon PTFE
+Eco_LOV_1572,Valve Seat Material,DTFE
+Eco_LOV_1572,Valve Seat Material,Ceramic
+Eco_LOV_1572,Valve Seat Material,Integral HF
+Eco_LOV_1572,Valve Seat Material,VTFE
+Eco_LOV_1572,Valve Seat Material,EPDM
+Eco_LOV_1572,Valve Seat Material,Nickel Plated Iron
+Eco_LOV_1572,Valve Seat Material,TFE Virgin Teflon
+Eco_LOV_1572,Valve Seat Material,Poly-Ether–Sulfone
+Eco_LOV_1572,Valve Seat Material,UHMWPE
+Eco_LOV_1572,Valve Seat Material,Ductile iron
+Eco_LOV_1572,Valve Seat Material,FKM
+Eco_LOV_1572,Valve Seat Material,Tufline-475
+Eco_LOV_1572,Valve Seat Material,Cast Iron
+Eco_LOV_1572,Valve Seat Material,CF8M
+Eco_LOV_1572,Valve Seat Material,Rubber
+Eco_LOV_1571,Valve Port Opening,Lift-N-Lock
+Eco_LOV_1571,Valve Port Opening,PT Port
+Eco_LOV_1571,Valve Port Opening,L-Port
+Eco_LOV_1571,Valve Port Opening,Dual Port
+Eco_LOV_1571,Valve Port Opening,Rectangular Port
+Eco_LOV_1571,Valve Port Opening,V-Port
+Eco_LOV_1571,Valve Port Opening,True Port
+Eco_LOV_1571,Valve Port Opening,Full Port
+Eco_LOV_1571,Valve Port Opening,Standard Port
+Eco_LOV_1571,Valve Port Opening,Fixed Port
+Eco_LOV_1571,Valve Port Opening,Purge Port
+Eco_LOV_1571,Valve Port Opening,Reduced Port
+Eco_LOV_1571,Valve Port Opening,Large Port
+Eco_LOV_1571,Valve Port Opening,Drain Port
+Eco_LOV_1571,Valve Port Opening,Round Port
+Eco_LOV_1571,Valve Port Opening,Valve Stem
+Eco_LOV_1571,Valve Port Opening,T-Port
+Eco_LOV_1570,Valve Operator,Quarter Turn Handle
+Eco_LOV_1570,Valve Operator,Pilot Operated
+Eco_LOV_1570,Valve Operator,Insulating Handle
+Eco_LOV_1570,Valve Operator,Oval Knurled
+Eco_LOV_1570,Valve Operator,Wrench
+Eco_LOV_1570,Valve Operator,10 Position Handle
+Eco_LOV_1570,Valve Operator,Trigger Handle
+Eco_LOV_1570,Valve Operator,Double Stop Handle
+Eco_LOV_1570,Valve Operator,Automatic
+Eco_LOV_1570,Valve Operator,Synchronous Hysteresis
+Eco_LOV_1570,Valve Operator,Vertical Chain Lever
+Eco_LOV_1570,Valve Operator,Cylinder Actuator
+Eco_LOV_1570,Valve Operator,Dual Handle
+Eco_LOV_1570,Valve Operator,Hand
+Eco_LOV_1570,Valve Operator,Extended Lever Handle
+Eco_LOV_1570,Valve Operator,Extension Handle with Memory Stop
+Eco_LOV_1570,Valve Operator,Cross Handle
+Eco_LOV_1570,Valve Operator,Loose Key
+Eco_LOV_1570,Valve Operator,Handwheel Handle
+Eco_LOV_1570,Valve Operator,Cross
+Eco_LOV_1570,Valve Operator,Automatic|Adjustable Spring Over Diaphragm
+Eco_LOV_1570,Valve Operator,Latch Locking Handle
+Eco_LOV_1570,Valve Operator,Handwheel
+Eco_LOV_1570,Valve Operator,Latch Locking Lever Handle
+Eco_LOV_1570,Valve Operator,Infinite Position with Memory Stop
+Eco_LOV_1570,Valve Operator,Locking Lever
+Eco_LOV_1570,Valve Operator,Square Operating Nut
+Eco_LOV_1570,Valve Operator,Standard Ball
+Eco_LOV_1570,Valve Operator,Manual Operator
+Eco_LOV_1570,Valve Operator,Long Tee Key
+Eco_LOV_1570,Valve Operator,Straight Lever Handle
+Eco_LOV_1570,Valve Operator,Multi Turn
+Eco_LOV_1570,Valve Operator,Curb Handle
+Eco_LOV_1570,Valve Operator,Direct Operated
+Eco_LOV_1570,Valve Operator,Gear Operator with Memory Stop and Chain Wheel
+Eco_LOV_1570,Valve Operator,Lever|Round|Slo-Ball|T handle
+Eco_LOV_1570,Valve Operator,Worm Gear
+Eco_LOV_1570,Valve Operator,Loose Tee Key
+Eco_LOV_1570,Valve Operator,Bevel Gear
+Eco_LOV_1570,Valve Operator,Locking Spring Oval Handle
+Eco_LOV_1570,Valve Operator,Locking Latch Lever Handle
+Eco_LOV_1570,Valve Operator,Metered
+Eco_LOV_1570,Valve Operator,Bar Handle
+Eco_LOV_1570,Valve Operator,Latch-Lok Handle
+Eco_LOV_1570,Valve Operator,Loose Key Wheel
+Eco_LOV_1570,Valve Operator,Standard Ball Lever Handle
+Eco_LOV_1570,Valve Operator,Spring Actuated
+Eco_LOV_1570,Valve Operator,Quarter Turn
+Eco_LOV_1570,Valve Operator,Insulated Handle with Memory Stop
+Eco_LOV_1570,Valve Operator,Reversible Handle
+Eco_LOV_1570,Valve Operator,4:1 Bevel Gear
+Eco_LOV_1570,Valve Operator,Electronic
+Eco_LOV_1570,Valve Operator,Therma-Seal<TRADEM/> Insulating Tee Handle
+Eco_LOV_1570,Valve Operator,Short-Locking Lever Handle
+Eco_LOV_1570,Valve Operator,Locking Wheel Handle
+Eco_LOV_1570,Valve Operator,Oval
+Eco_LOV_1570,Valve Operator,Lockout Handle
+Eco_LOV_1570,Valve Operator,Latch Lock Lever Handle
+Eco_LOV_1570,Valve Operator,Bare Stem
+Eco_LOV_1570,Valve Operator,Gear Operator with Switch
+Eco_LOV_1570,Valve Operator,Spring
+Eco_LOV_1570,Valve Operator,Cylinder
+Eco_LOV_1570,Valve Operator,Extension Stem
+Eco_LOV_1570,Valve Operator,Spring Return Handle
+Eco_LOV_1570,Valve Operator,Locking Tee Handle
+Eco_LOV_1570,Valve Operator,Lever
+Eco_LOV_1570,Valve Operator,Locking Lever Round Handle
+Eco_LOV_1570,Valve Operator,Gear
+Eco_LOV_1570,Valve Operator,Float
+Eco_LOV_1570,Valve Operator,None
+Eco_LOV_1570,Valve Operator,T-handle
+Eco_LOV_1570,Valve Operator,10 Position Handle with Memory Stop
+Eco_LOV_1570,Valve Operator,Memory Stop
+Eco_LOV_1570,Valve Operator,Gear Operator
+Eco_LOV_1570,Valve Operator,Wheel
+Eco_LOV_1570,Valve Operator,Handle
+Eco_LOV_1570,Valve Operator,Gear with Locking Device
+Eco_LOV_1570,Valve Operator,Standard Wheel Handle
+Eco_LOV_1570,Valve Operator,Latch Lock Handle
+Eco_LOV_1570,Valve Operator,T-Handle
+Eco_LOV_1570,Valve Operator,Gear Operator W/Handwheel
+Eco_LOV_1570,Valve Operator,Locking Oval Handle
+Eco_LOV_1570,Valve Operator,Turn
+Eco_LOV_1570,Valve Operator,Less Operator
+Eco_LOV_1570,Valve Operator,Latch Lock Oval Handle
+Eco_LOV_1570,Valve Operator,Foot Treadle;Flag Handle
+Eco_LOV_1570,Valve Operator,Wheel Handle
+Eco_LOV_1570,Valve Operator,Pneumatic Cylinder
+Eco_LOV_1570,Valve Operator,Locking Extension Handle
+Eco_LOV_1570,Valve Operator,Screwdriver Slot
+Eco_LOV_1570,Valve Operator,Locking Lever Handle
+Eco_LOV_1570,Valve Operator,Pad Lockable Stem
+Eco_LOV_1570,Valve Operator,Pneumatic Air to Air
+Eco_LOV_1570,Valve Operator,Positive Shut off
+Eco_LOV_1570,Valve Operator,Actuator
+Eco_LOV_1570,Valve Operator,Therma-Seal<TRADEM/> Insulating Tee
+Eco_LOV_1570,Valve Operator,Insulated NIB-SEAL<REG/> Handle
+Eco_LOV_1570,Valve Operator,Knob Handle
+Eco_LOV_1570,Valve Operator,Butterfly Handle
+Eco_LOV_1570,Valve Operator,Locking Lever with Tamper Resistant Device
+Eco_LOV_1570,Valve Operator,10 Position Locking Lever Handle
+Eco_LOV_1570,Valve Operator,Quarter Turn Tee Handle
+Eco_LOV_1570,Valve Operator,Lockwing Handle
+Eco_LOV_1570,Valve Operator,Spring Handle
+Eco_LOV_1570,Valve Operator,Oval Handle
+Eco_LOV_1570,Valve Operator,Round
+Eco_LOV_1570,Valve Operator,Slot Screw
+Eco_LOV_1570,Valve Operator,Gear Operator with Chain Wheel
+Eco_LOV_1570,Valve Operator,Gear Operator with Lockout
+Eco_LOV_1570,Valve Operator,3:1 Bevel Gear
+Eco_LOV_1570,Valve Operator,Extended Locking Handle
+Eco_LOV_1570,Valve Operator,Actuator Ready
+Eco_LOV_1570,Valve Operator,Pneumatic Spring Return
+Eco_LOV_1570,Valve Operator,Screw Handle
+Eco_LOV_1570,Valve Operator,Hi-Rise Locking Wheel Handle
+Eco_LOV_1570,Valve Operator,Multi-Turn Handle
+Eco_LOV_1570,Valve Operator,Lockable Metal Handle
+Eco_LOV_1570,Valve Operator,2 in Square Nut
+Eco_LOV_1570,Valve Operator,Lever Handle;Gear Operator
+Eco_LOV_1570,Valve Operator,Cam-Lock Handle
+Eco_LOV_1570,Valve Operator,Hand Wheel
+Eco_LOV_1570,Valve Operator,Wing Handle
+Eco_LOV_1570,Valve Operator,Locking Handle
+Eco_LOV_1570,Valve Operator,Key
+Eco_LOV_1570,Valve Operator,Knob
+Eco_LOV_1570,Valve Operator,Square Handle
+Eco_LOV_1570,Valve Operator,2 in operating nut
+Eco_LOV_1570,Valve Operator,Teardrop Handle
+Eco_LOV_1570,Valve Operator,Pull Handle
+Eco_LOV_1570,Valve Operator,Oval Lock
+Eco_LOV_1570,Valve Operator,Lever Handle
+Eco_LOV_1570,Valve Operator,Custom Handle
+Eco_LOV_1570,Valve Operator,Latch Lever Handle
+Eco_LOV_1570,Valve Operator,Multi Turn Handwheel
+Eco_LOV_1570,Valve Operator,Loose Key Wheel Handle
+Eco_LOV_1570,Valve Operator,Cylinder Lock
+Eco_LOV_1570,Valve Operator,Cross Handwheel Handle
+Eco_LOV_1570,Valve Operator,Plasgear<TRADEM/>
+Eco_LOV_1570,Valve Operator,Electric Actuator
+Eco_LOV_1570,Valve Operator,Oval Lock Handle
+Eco_LOV_1570,Valve Operator,Operating Nut
+Eco_LOV_1570,Valve Operator,Wrench with Locking Device
+Eco_LOV_1570,Valve Operator,Piston Actuated
+Eco_LOV_1570,Valve Operator,Locking Round Handle
+Eco_LOV_1570,Valve Operator,Hi-Rise Round Handle
+Eco_LOV_1570,Valve Operator,Locking Oval
+Eco_LOV_1570,Valve Operator,Screw and Nut
+Eco_LOV_1570,Valve Operator,Tee Handle
+Eco_LOV_1570,Valve Operator,Oval Knurled Handle
+Eco_LOV_1570,Valve Operator,Wedge Handle
+Eco_LOV_1570,Valve Operator,Gear Operator with Memory Stop
+Eco_LOV_1570,Valve Operator,Digital Handwheel
+Eco_LOV_1570,Valve Operator,Tee Key Handle
+Eco_LOV_1570,Valve Operator,Horizontal Chain Lever
+Eco_LOV_1570,Valve Operator,Hi-rise Locking Wheel Handle
+Eco_LOV_1570,Valve Operator,Cross Handwheel
+Eco_LOV_1570,Valve Operator,Loose Key Handle
+Eco_LOV_1570,Valve Operator,Gear Operator Handle
+Eco_LOV_1570,Valve Operator,Quarter Turn Lever Handle
+Eco_LOV_1570,Valve Operator,NIB-SEAL<REG/> Handle
+Eco_LOV_1570,Valve Operator,Digital
+Eco_LOV_1570,Valve Operator,NIB-SEAL® Locking Extended Insulated Handle
+Eco_LOV_1570,Valve Operator,Round Handle
+Eco_LOV_1065,Valve Material,Stainless Steel
+Eco_LOV_1065,Valve Material,Aluminum
+Eco_LOV_1065,Valve Material,Chrome
+Eco_LOV_1065,Valve Material,Carbon Steel
+Eco_LOV_1065,Valve Material,Composite
+Eco_LOV_1065,Valve Material,Bronze
+Eco_LOV_1065,Valve Material,Cast Aluminum
+Eco_LOV_1065,Valve Material,Plastic
+Eco_LOV_1065,Valve Material,Rubber
+Eco_LOV_1065,Valve Material,Brass
+Eco_LOV_1065,Valve Material,Cast Bronze
+Eco_LOV_1065,Valve Material,Metal
+Eco_LOV_1065,Valve Material,Steel
+Eco_LOV_1065,Valve Material,Ductile Iron
+Eco_LOV_1065,Valve Material,Cast Iron
+Eco_LOV_37,Valve Disc Material,PTFE (15% Glass Filled)
+Eco_LOV_37,Valve Disc Material,Silicone
+Eco_LOV_37,Valve Disc Material,Chrome Plated Brass
+Eco_LOV_37,Valve Disc Material,Viton
+Eco_LOV_37,Valve Disc Material,Cast Bronze
+Eco_LOV_37,Valve Disc Material,Wedge
+Eco_LOV_37,Valve Disc Material,Manganese Bronze
+Eco_LOV_37,Valve Disc Material,Chloramine-resistant EPDM
+Eco_LOV_37,Valve Disc Material,Copper
+Eco_LOV_37,Valve Disc Material,410 Stainless Steel
+Eco_LOV_37,Valve Disc Material,CoCr Alloy
+Eco_LOV_37,Valve Disc Material,Viton<REG/>
+Eco_LOV_37,Valve Disc Material,Nylon
+Eco_LOV_37,Valve Disc Material,UPVC
+Eco_LOV_37,Valve Disc Material,Cast Grey Iron
+Eco_LOV_37,Valve Disc Material,Carbon Steel
+Eco_LOV_37,Valve Disc Material,Cast Carbon Steel
+Eco_LOV_37,Valve Disc Material,Polyphenylene Sulfide
+Eco_LOV_37,Valve Disc Material,Iron
+Eco_LOV_37,Valve Disc Material,Stellite 6
+Eco_LOV_37,Valve Disc Material,Cast Brass Alloy
+Eco_LOV_37,Valve Disc Material,Ceramic
+Eco_LOV_37,Valve Disc Material,Malleable Iron
+Eco_LOV_37,Valve Disc Material,Forged Solid
+Eco_LOV_37,Valve Disc Material,Alloy Steel
+Eco_LOV_37,Valve Disc Material,Brass
+Eco_LOV_37,Valve Disc Material,Nickel Iron
+Eco_LOV_37,Valve Disc Material,Cast Stainless Steel
+Eco_LOV_37,Valve Disc Material,Nickel Aluminum Bronze
+Eco_LOV_37,Valve Disc Material,Stainless Steel
+Eco_LOV_37,Valve Disc Material,Cast Brass
+Eco_LOV_37,Valve Disc Material,Hardened Steel
+Eco_LOV_37,Valve Disc Material,Ceramic Disc
+Eco_LOV_37,Valve Disc Material,Rubber
+Eco_LOV_37,Valve Disc Material,Polyamide
+Eco_LOV_37,Valve Disc Material,Cast Steel
+Eco_LOV_37,Valve Disc Material,Brass Alloy B16
+Eco_LOV_37,Valve Disc Material,Alloy
+Eco_LOV_37,Valve Disc Material,Phenolic
+Eco_LOV_37,Valve Disc Material,Copper Silicon Alloy
+Eco_LOV_37,Valve Disc Material,Polyethylene
+Eco_LOV_37,Valve Disc Material,Magnesium Bronze
+Eco_LOV_37,Valve Disc Material,Silicone Bronze
+Eco_LOV_37,Valve Disc Material,Monel<REG/>400
+Eco_LOV_37,Valve Disc Material,Santoprene
+Eco_LOV_37,Valve Disc Material,Forged Brass
+Eco_LOV_37,Valve Disc Material,RTFE
+Eco_LOV_37,Valve Disc Material,Chromium Steel
+Eco_LOV_37,Valve Disc Material,Rubber Encapsulated
+Eco_LOV_37,Valve Disc Material,Polypropylene
+Eco_LOV_37,Valve Disc Material,Noryl
+Eco_LOV_37,Valve Disc Material,Buna
+Eco_LOV_37,Valve Disc Material,Alloy 20
+Eco_LOV_37,Valve Disc Material,Reinforced PTFE
+Eco_LOV_37,Valve Disc Material,Steel
+Eco_LOV_37,Valve Disc Material,RPTFE
+Eco_LOV_37,Valve Disc Material,Copper Nickel Alloy
+Eco_LOV_37,Valve Disc Material,CPVC
+Eco_LOV_37,Valve Disc Material,Non Metallic
+Eco_LOV_37,Valve Disc Material,Aluminum
+Eco_LOV_37,Valve Disc Material,EPDM
+Eco_LOV_37,Valve Disc Material,PTFE
+Eco_LOV_37,Valve Disc Material,Nitrile
+Eco_LOV_37,Valve Disc Material,Elastomer
+Eco_LOV_37,Valve Disc Material,Aluminum Bronze
+Eco_LOV_37,Valve Disc Material,Cast Iron
+Eco_LOV_37,Valve Disc Material,Bronze
+Eco_LOV_37,Valve Disc Material,Nickel Plated Ductile Iron
+Eco_LOV_37,Valve Disc Material,Teflon<TRADEM/>
+Eco_LOV_37,Valve Disc Material,Metal
+Eco_LOV_37,Valve Disc Material,Nickel
+Eco_LOV_37,Valve Disc Material,Stainless Steel
+Eco_LOV_37,Valve Disc Material,PVC
+Eco_LOV_37,Valve Disc Material,Monel
+Eco_LOV_37,Valve Disc Material,Neoprene
+Eco_LOV_37,Valve Disc Material,Cast iron
+Eco_LOV_37,Valve Disc Material,Chrome Plated
+Eco_LOV_37,Valve Disc Material,Copper Alloy
+Eco_LOV_37,Valve Disc Material,Solid
+Eco_LOV_37,Valve Disc Material,Reinforced EPDM
+Eco_LOV_37,Valve Disc Material,316 Stainless Steel
+Eco_LOV_37,Valve Disc Material,HF
+Eco_LOV_37,Valve Disc Material,Chloramine-resistant Silicone
+Eco_LOV_37,Valve Disc Material,420 Stainless Steel
+Eco_LOV_37,Valve Disc Material,POM
+Eco_LOV_37,Valve Disc Material,Ductile Iron
+Eco_LOV_37,Valve Disc Material,Nickle Plated DI
+Eco_LOV_37,Valve Disc Material,CF8M
+Eco_LOV_37,Valve Disc Material,Stellite
+Eco_LOV_37,Valve Disc Material,Buna-N
+Eco_LOV_37,Valve Disc Material,PTFE (25% Glass Filled)
+Eco_LOV_37,Valve Disc Material,Stainless steel
+Eco_LOV_37,Valve Disc Material,DZR Metal
+Eco_LOV_37,Valve Disc Material,13% CR Overlay
+Eco_LOV_37,Valve Disc Material,Teflon
+Eco_LOV_37,Valve Disc Material,CR 13
+Eco_LOV_37,Valve Disc Material,NBR
+Eco_LOV_37,Valve Disc Material,TFE
+Eco_LOV_37,Valve Disc Material,304 Stainless Steel
+Eco_LOV_37,Valve Disc Material,Hycar Composition
+Eco_LOV_37,Valve Disc Material,Plastic
+Eco_LOV_37,Valve Disc Material,Forged Steel
+Eco_LOV_37,Valve Disc Material,FKM
+Eco_LOV_72,Valve Bonnet Type,Capped
+Eco_LOV_72,Valve Bonnet Type,U-Bolt
+Eco_LOV_72,Valve Bonnet Type,Union
+Eco_LOV_72,Valve Bonnet Type,Hub
+Eco_LOV_72,Valve Bonnet Type,Sealed
+Eco_LOV_72,Valve Bonnet Type,Screw-in
+Eco_LOV_72,Valve Bonnet Type,Screw-over
+Eco_LOV_72,Valve Bonnet Type,Bonded
+Eco_LOV_72,Valve Bonnet Type,Bolted
+Eco_LOV_72,Valve Bonnet Type,Welded
+Eco_LOV_72,Valve Bonnet Type,Integral
+Eco_LOV_72,Valve Bonnet Type,Unwelded
+Eco_LOV_72,Valve Bonnet Type,Threaded
+Eco_LOV_1565,Valve Body Style,5-way
+Eco_LOV_1565,Valve Body Style,C Pattern
+Eco_LOV_1565,Valve Body Style,Poppet
+Eco_LOV_1565,Valve Body Style,2 piece
+Eco_LOV_1565,Valve Body Style,Resilient Seated
+Eco_LOV_1565,Valve Body Style,Straight
+Eco_LOV_1565,Valve Body Style,Unibody
+Eco_LOV_1565,Valve Body Style,8 piece
+Eco_LOV_1565,Valve Body Style,1-way
+Eco_LOV_1565,Valve Body Style,4-way
+Eco_LOV_1565,Valve Body Style,Angle
+Eco_LOV_1565,Valve Body Style,Inline
+Eco_LOV_1565,Valve Body Style,Bolted
+Eco_LOV_1565,Valve Body Style,3-way
+Eco_LOV_1565,Valve Body Style,Wafer
+Eco_LOV_1565,Valve Body Style,Self-closing
+Eco_LOV_1565,Valve Body Style,N Pattern
+Eco_LOV_1565,Valve Body Style,Bypass
+Eco_LOV_1565,Valve Body Style,Check
+Eco_LOV_1565,Valve Body Style,Z Pattern
+Eco_LOV_1565,Valve Body Style,Spring
+Eco_LOV_1565,Valve Body Style,Swing Flex
+Eco_LOV_1565,Valve Body Style,H Pattern
+Eco_LOV_1565,Valve Body Style,Swing
+Eco_LOV_1565,Valve Body Style,Single Union
+Eco_LOV_1565,Valve Body Style,T Pattern
+Eco_LOV_1565,Valve Body Style,3 piece
+Eco_LOV_1565,Valve Body Style,1 piece
+Eco_LOV_1565,Valve Body Style,Barstock
+Eco_LOV_1565,Valve Body Style,Pet Cock
+Eco_LOV_1565,Valve Body Style,5 piece
+Eco_LOV_1565,Valve Body Style,Buttweld
+Eco_LOV_1565,Valve Body Style,Spring Loaded Lift
+Eco_LOV_1565,Valve Body Style,Round
+Eco_LOV_1565,Valve Body Style,Sweat
+Eco_LOV_1565,Valve Body Style,Integral Stops
+Eco_LOV_1565,Valve Body Style,4 piece
+Eco_LOV_1565,Valve Body Style,Globe
+Eco_LOV_1565,Valve Body Style,Shank
+Eco_LOV_1565,Valve Body Style,V Pattern
+Eco_LOV_1565,Valve Body Style,Grooved
+Eco_LOV_1565,Valve Body Style,Standard
+Eco_LOV_1565,Valve Body Style,Less Stops
+Eco_LOV_1565,Valve Body Style,Forged
+Eco_LOV_1565,Valve Body Style,Top entry
+Eco_LOV_1565,Valve Body Style,Basket
+Eco_LOV_1565,Valve Body Style,2-way
+Eco_LOV_1565,Valve Body Style,7 piece
+Eco_LOV_1565,Valve Body Style,Swing Wafer
+Eco_LOV_1565,Valve Body Style,Standpipe
+Eco_LOV_1565,Valve Body Style,Swing Check
+Eco_LOV_1565,Valve Body Style,Lift
+Eco_LOV_1565,Valve Body Style,Spring Swing
+Eco_LOV_1565,Valve Body Style,Y Pattern
+Eco_LOV_1565,Valve Body Style,Inside Screw Stem
+Eco_LOV_1565,Valve Body Style,Ball-check
+Eco_LOV_1565,Valve Body Style,Tee
+Eco_LOV_1565,Valve Body Style,Open Left
+Eco_LOV_1565,Valve Body Style,Sleeved
+Eco_LOV_1565,Valve Body Style,Casting
+Eco_LOV_1565,Valve Body Style,Flanged
+Eco_LOV_1565,Valve Body Style,Dual
+Eco_LOV_1565,Valve Body Style,Horizontal
+Eco_LOV_1565,Valve Body Style,Spring Check
+Eco_LOV_1565,Valve Body Style,Lug
+Eco_LOV_1565,Valve Body Style,Loose Key
+Eco_LOV_1565,Valve Body Style,Ball
+Eco_LOV_1565,Valve Body Style,Horizontal Swing
+Eco_LOV_1565,Valve Body Style,Socket Weld
+Eco_LOV_1565,Valve Body Style,Threaded
+Eco_LOV_1565,Valve Body Style,Vertical
+Eco_LOV_1565,Valve Body Style,Straight Pattern
+Eco_LOV_1565,Valve Body Style,Flapper
+Eco_LOV_1565,Valve Body Style,Open Right
+Eco_LOV_1565,Valve Body Style,6 piece
+Eco_LOV_1564,Valve Body Material,304L Stainless Steel
+Eco_LOV_1564,Valve Body Material,Cast Aluminum
+Eco_LOV_1564,Valve Body Material,Extruded Aluminum
+Eco_LOV_1564,Valve Body Material,Die Cast Aluminum
+Eco_LOV_1564,Valve Body Material,Cast Grey Iron
+Eco_LOV_1564,Valve Body Material,Anodized Aluminum
+Eco_LOV_1564,Valve Body Material,Cast Brass
+Eco_LOV_1564,Valve Body Material,Semi-red Brass
+Eco_LOV_1564,Valve Body Material,Ductile Iron
+Eco_LOV_1564,Valve Body Material,Resin
+Eco_LOV_1564,Valve Body Material,Forged Carbon Steel
+Eco_LOV_1564,Valve Body Material,Acetal
+Eco_LOV_1564,Valve Body Material,Kynar<REG/> PVDF
+Eco_LOV_1564,Valve Body Material,Copper
+Eco_LOV_1564,Valve Body Material,Forged Stainless Steel
+Eco_LOV_1564,Valve Body Material,Zinc
+Eco_LOV_1564,Valve Body Material,Aluminum Alloy
+Eco_LOV_1564,Valve Body Material,CF8M
+Eco_LOV_1564,Valve Body Material,300 Stainless Steel
+Eco_LOV_1564,Valve Body Material,Cast DZR Brass
+Eco_LOV_1564,Valve Body Material,Copper Alloy
+Eco_LOV_1564,Valve Body Material,Cast Brass Alloy
+Eco_LOV_1564,Valve Body Material,Cast Copper Silicon Alloy
+Eco_LOV_1564,Valve Body Material,Monel
+Eco_LOV_1564,Valve Body Material,Cast Iron
+Eco_LOV_1564,Valve Body Material,Plastic
+Eco_LOV_1564,Valve Body Material,Brass
+Eco_LOV_1564,Valve Body Material,PTFE
+Eco_LOV_1564,Valve Body Material,Iron
+Eco_LOV_1564,Valve Body Material,Chrome Plated Brass
+Eco_LOV_1564,Valve Body Material,Lead Free Brass
+Eco_LOV_1564,Valve Body Material,Machined-brass
+Eco_LOV_1564,Valve Body Material,FPM
+Eco_LOV_1564,Valve Body Material,Celcon
+Eco_LOV_1564,Valve Body Material,Bronze
+Eco_LOV_1564,Valve Body Material,Cast Nickel Bronze
+Eco_LOV_1564,Valve Body Material,Carbon Steel
+Eco_LOV_1564,Valve Body Material,Glass-Filled Polysulfone
+Eco_LOV_1564,Valve Body Material,Glass Reinforced Nylon
+Eco_LOV_1564,Valve Body Material,Reinforced Nylon
+Eco_LOV_1564,Valve Body Material,Aluminum
+Eco_LOV_1564,Valve Body Material,Brass Alloy
+Eco_LOV_1564,Valve Body Material,Nylon
+Eco_LOV_1564,Valve Body Material,Ametal<REG/> Brass Copper Alloy
+Eco_LOV_1564,Valve Body Material,Silicon Bronze
+Eco_LOV_1564,Valve Body Material,Nickel Iron
+Eco_LOV_1564,Valve Body Material,Elastomer
+Eco_LOV_1564,Valve Body Material,EPDM
+Eco_LOV_1564,Valve Body Material,ABS
+Eco_LOV_1564,Valve Body Material,Nickel Alloy
+Eco_LOV_1564,Valve Body Material,Cast Bronze
+Eco_LOV_1564,Valve Body Material,304 Stainless Steel
+Eco_LOV_1564,Valve Body Material,Forged Copper Alloy
+Eco_LOV_1564,Valve Body Material,303 Stainless Steel
+Eco_LOV_1564,Valve Body Material,Rough Brass
+Eco_LOV_1564,Valve Body Material,Copper Silicon Alloy
+Eco_LOV_1564,Valve Body Material,UPVC
+Eco_LOV_1564,Valve Body Material,Steel
+Eco_LOV_1564,Valve Body Material,Forged Brass
+Eco_LOV_1564,Valve Body Material,Gray Iron
+Eco_LOV_1564,Valve Body Material,Silicon Alloy
+Eco_LOV_1564,Valve Body Material,Acetyl
+Eco_LOV_1564,Valve Body Material,Cast Carbon Steel
+Eco_LOV_1564,Valve Body Material,PVC
+Eco_LOV_1564,Valve Body Material,Chrome-Moly Alloy Steel
+Eco_LOV_1564,Valve Body Material,Cast Steel
+Eco_LOV_1564,Valve Body Material,Polypropylene
+Eco_LOV_1564,Valve Body Material,Forged Copper Silicon Alloy
+Eco_LOV_1564,Valve Body Material,Fiberglass
+Eco_LOV_1564,Valve Body Material,Forged Steel
+Eco_LOV_1564,Valve Body Material,Aluminum Bronze
+Eco_LOV_1564,Valve Body Material,Metal
+Eco_LOV_1564,Valve Body Material,Composite
+Eco_LOV_1564,Valve Body Material,Red Brass
+Eco_LOV_1564,Valve Body Material,Copper Silicon
+Eco_LOV_1564,Valve Body Material,Galvanized Steel
+Eco_LOV_1564,Valve Body Material,Rubber
+Eco_LOV_1564,Valve Body Material,CPVC
+Eco_LOV_1564,Valve Body Material,Alloy 20
+Eco_LOV_1564,Valve Body Material,316L Stainless Steel
+Eco_LOV_1564,Valve Body Material,317L Stainless Steel
+Eco_LOV_1564,Valve Body Material,Alloy
+Eco_LOV_1564,Valve Body Material,Hastelloy<REG/> C276
+Eco_LOV_1564,Valve Body Material,Forged Rough Brass
+Eco_LOV_1564,Valve Body Material,Acetal Copolymer
+Eco_LOV_1564,Valve Body Material,HDPE
+Eco_LOV_1564,Valve Body Material,PVDF
+Eco_LOV_1564,Valve Body Material,Stainless Steel
+Eco_LOV_1564,Valve Body Material,Cast Copper
+Eco_LOV_1564,Valve Body Material,DZR Brass
+Eco_LOV_1564,Valve Body Material,Ceramic
+Eco_LOV_1564,Valve Body Material,Nickel Plated Brass
+Eco_LOV_1564,Valve Body Material,Copper Nickel Alloy
+Eco_LOV_1564,Valve Body Material,Concrete
+Eco_LOV_1564,Valve Body Material,Cast Stainless Steel
+Eco_LOV_1564,Valve Body Material,Alloy Steel
+Eco_LOV_1564,Valve Body Material,Chrome
+Eco_LOV_1564,Valve Body Material,Rhodium
+Eco_LOV_1564,Valve Body Material,316 Stainless Steel
+Eco_LOV_3788,Vacuum Type,Compact
+Eco_LOV_3788,Vacuum Type,Backpack
+Eco_LOV_3788,Vacuum Type,Dry
+Eco_LOV_3788,Vacuum Type,Dust Extractor
+Eco_LOV_3788,Vacuum Type,Upright
+Eco_LOV_3788,Vacuum Type,Stick
+Eco_LOV_3788,Vacuum Type,Robot
+Eco_LOV_3788,Vacuum Type,Wet & Dry
+Eco_LOV_3788,Vacuum Type,Shop
+Eco_LOV_3788,Vacuum Type,Wet
+Eco_LOV_1064,Vacuum Breaker,Yes
+Eco_LOV_1064,Vacuum Breaker,No
+Eco_LOV_457,V & RS Type,Splitter Vanes
+Eco_LOV_457,V & RS Type,Hollow Vanes
+Eco_LOV_457,V & RS Type,Boot Rails
+Eco_LOV_457,V & RS Type,Double Vane Rail
+Eco_LOV_457,V & RS Type,Snap-on Rails
+Eco_LOV_457,V & RS Type,Rail Systems
+Eco_LOV_1063,Utility Faucet Type,Mop Sink
+Eco_LOV_1063,Utility Faucet Type,Service
+Eco_LOV_1063,Utility Faucet Type,Laundry
+Eco_LOV_1063,Utility Faucet Type,Lab
+Eco_LOV_285,Utility Box Type,Saddle Box
+Eco_LOV_285,Utility Box Type,Wheel Well Box
+Eco_LOV_285,Utility Box Type,Underbody Box
+Eco_LOV_285,Utility Box Type,5th Wheel Box
+Eco_LOV_285,Utility Box Type,Crossover Box
+Eco_LOV_285,Utility Box Type,Camper Box
+Use Rplc Cost Flag,Use Rplc Cost Flag,Y
+Eco_LOV_200,Urinal Type - FEI,Full Stall
+Eco_LOV_200,Urinal Type - FEI,High Efficiency
+Eco_LOV_200,Urinal Type - FEI,Half Stall
+Eco_LOV_200,Urinal Type - FEI,Quarter Stall
+Eco_LOV_200,Urinal Type - FEI,Waterless
+Eco_LOV_1062,Urinal Installation,Floor Mount
+Eco_LOV_1062,Urinal Installation,Wall Mount
+Eco_LOV_1060,Tub Spout Type,Diverter
+Eco_LOV_1060,Tub Spout Type,Non-diverter
+TrueFalse,TrueFalse,TRUE
+TrueFalse,TrueFalse,FALSE
+Eco_LOV_1057,Trip Lever Placement,Center
+Eco_LOV_1057,Trip Lever Placement,Side
+Eco_LOV_1057,Trip Lever Placement,Front
+Eco_LOV_1057,Trip Lever Placement,Universal
+Eco_LOV_3750,Trip Lever Location,Top
+Eco_LOV_3750,Trip Lever Location,Right-Hand/Left-Hand
+Eco_LOV_3750,Trip Lever Location,Left-Hand
+Eco_LOV_3750,Trip Lever Location,Right-Hand
+Eco_LOV_3749,Trim Ring,Yes
+Eco_LOV_3749,Trim Ring,No
+Eco_LOV_2187,Trim Only - FEI,No
+Eco_LOV_2187,Trim Only - FEI,Yes
+Eco_LOV_3747,Trap Primer Connection,No
+Eco_LOV_3747,Trap Primer Connection,Yes
+Eco_LOV_1143,Trap Material Type,CPVC
+Eco_LOV_1143,Trap Material Type,Polypropylene
+Eco_LOV_1143,Trap Material Type,EVA Foam
+Eco_LOV_1143,Trap Material Type,CPVC DWV
+Eco_LOV_1143,Trap Material Type,DWV
+Eco_LOV_1143,Trap Material Type,PVC
+Eco_LOV_1143,Trap Material Type,Vinyl
+Eco_LOV_1143,Trap Material Type,ABS
+Eco_LOV_1143,Trap Material Type,FR-PP
