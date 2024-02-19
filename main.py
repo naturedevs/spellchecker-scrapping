@@ -35,7 +35,6 @@ class SpellCheckModel(QAbstractListModel):
 
 
 spell = SpellChecker()
-
 folder_path = './output'
 if not os.path.exists(folder_path):
     os.mkdir(folder_path)
